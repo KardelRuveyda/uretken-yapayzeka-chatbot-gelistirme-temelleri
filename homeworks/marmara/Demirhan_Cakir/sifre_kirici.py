@@ -3,12 +3,12 @@ class SifreKirici:
         self.sifre = sifre
         self.alfabe = alfabe
 
-    def sifreCoz(self):
+    def sifreCoz(self): # Sifreli mesaj cozme fonksiyonu 
         secim = input("Ornek mesaji cozmek icin '1', Kendi mesajinizi cozmek icin '2': ")
         if secim == "1":
             sifre = self.sifre
         elif secim == "2":
-            while True:
+            while True: # Girilen mesajin sadece harf ya da sadece rakam olup olmadigini kontrol eden dongu
                 mesaj = input("Şifreli mesajı giriniz (sadece sayi ya da sadece harf giriniz!): ")
                 try:
                     sayilar=0
@@ -29,7 +29,7 @@ class SifreKirici:
         alfabe = self.alfabe
         sifre = sifre.lower().split(" ")
         sifreCoz = []
-        for kelime in sifre:
+        for kelime in sifre: # harfli mesajlar icin cozme islemi
             kelimeCoz = ""
             for harf in kelime:
                 if harf in alfabe:
@@ -42,7 +42,7 @@ class SifreKirici:
                     kelimeCoz += harf
             sifreCoz.append(kelimeCoz)
         
-        if sifreCoz[-1].isdigit():
+        if sifreCoz[-1].isdigit(): # sayili mesajlar icin mesaj cozme islemi 
             sifreCoz = sifreCoz[::-1]
             ters_kelimeler = [kelime[::-1] for kelime in sifreCoz]
             sifreCoz = ' '.join(ters_kelimeler)
@@ -50,8 +50,8 @@ class SifreKirici:
             sifreCoz = ' '.join(sifreCoz)
         return "Mesajin sifresi cozulmus hali --> ",sifreCoz
         
-    def mesajSifrelendir(self):
-        while True:
+    def mesajSifrelendir(self): # Mesaj sifreleme fonksiyonu
+        while True: # Girilen mesajin sadece harf ya da sadece rakam olup olmadigini kontrol eden dongu
             mesaj = input("Şifrelenecek mesajı giriniz (sadece sayi ya da sadece harf giriniz!): ")
             try:
                 sayilar=0
@@ -71,7 +71,7 @@ class SifreKirici:
         alfabe = self.alfabe    
         mesaj = mesaj.lower().split(" ")
         sifre = []
-        for kelime in mesaj:
+        for kelime in mesaj: # harfli mesajlar icin sifreleme islemi
             kelimeSifre = ""
             for harf in kelime:
                 if harf in alfabe:
@@ -83,7 +83,7 @@ class SifreKirici:
                 else:
                     kelimeSifre += harf
             sifre.append(kelimeSifre)
-        if sifre[-1].isdigit():
+        if sifre[-1].isdigit(): # sayili mesajlar icin sifreleme islemi
             sifre = sifre[::-1]
             ters_kelimeler = [kelime[::-1] for kelime in sifre] 
             sifre = ' '.join(ters_kelimeler)
