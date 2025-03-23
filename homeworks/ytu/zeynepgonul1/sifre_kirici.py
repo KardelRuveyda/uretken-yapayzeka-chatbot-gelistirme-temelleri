@@ -23,6 +23,8 @@ encrypted_msg = "ymj vznhp gwtbs ktc ozrux tajw ymj qfed itl"
 decrypted_msg = decrypt_message(encrypted_msg)
 print("Cozulen Mesaj:", decrypted_msg)
 
+"The quick brown fox jumps over the lazy dog"
+
 # Mesajlari Sifreleyip Cozebilecek Kod
 test_message = "hello 2025!"
 encrypted_test = encrypt_message(test_message)
