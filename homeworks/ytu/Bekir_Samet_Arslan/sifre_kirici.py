@@ -1,3 +1,4 @@
+#Bekir Samet Arslan
 def sifreyi_coz(sifreli_mesaj):
     cozulmus_mesaj = ""
     sayi_dizisi = ""
