@@ -32,15 +32,14 @@ def sifreCoz(mesaj):
             sonuc += karakter
     if sayac:
         sonuc += sayac[::-1]  
-    return sonuc
+        return sonuc
 
+kendi_mesaj = input("Şifrelenecek mesajı girin: ")
 
 sifreli_mesaj = sifrele(kendi_mesaj)  # Mesajı şifrele
 cozulmus_mesaj = sifreCoz(sifreli_mesaj)  # Şifreli mesajı çöz
 
 print("Test Mesajının Çözümü:", sifreCoz("ymj vznhp gwtbs ktc ozrux tajw ymj qfed itl"))
-
-kendi_mesaj = input("Şifrelenecek mesajı girin: ")
 
 print("Girdiğiniz Mesaj: ", cozulmus_mesaj)
 print("Mesajın Çözümü",sifreCoz(kendi_mesaj))
