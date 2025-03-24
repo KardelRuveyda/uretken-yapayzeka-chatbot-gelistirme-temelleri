@@ -1,60 +1,45 @@
 def sifrele(mesaj):
-    """
-    Verilen mesajı şifreler.
-    - Harfleri alfabede 5 harf ileri kaydırır.
-    - Sayıları ters çevirir.
-    - Boşluk ve özel karakterleri korur.
-    """
     sonuc = ""
     sayac = ""
     for karakter in mesaj:
-        if karakter.isalpha():  # Harf kontrolü
+        if karakter.isalpha(): 
             base = ord('A') if karakter.isupper() else ord('a')
             sonuc += chr((ord(karakter) - base + 5) % 26 + base)
-        elif karakter.isdigit():  # Sayı kontrolü
+        elif karakter.isdigit(): 
             sayac += karakter
-        else:  # Özel karakterler
+        else: 
             if sayac:
-                sonuc += sayac[::-1]  # Sayıları ters çevir ve ekle
+                sonuc += sayac[::-1] 
                 nsayac = ""
             sonuc += karakter
     if sayac:
-        sonuc += sayac[::-1]  # Son kalan sayıları ters çevir ve ekle
+        sonuc += sayac[::-1]
     return sonuc
 
 def sifreCoz(mesaj):
-    """
-    Verilen şifreli mesajı çözer.
-    - Harfleri alfabede 5 harf geri kaydırır.
-    - Sayıları tekrar ters çevirerek orijinal haline getirir.
-    - Boşluk ve özel karakterleri korur.
-    """
     sonuc = ""
     sayac = ""
     for karakter in mesaj:
-        if karakter.isalpha():  # Harf kontrolü
+        if karakter.isalpha():  
             base = ord('A') if karakter.isupper() else ord('a')
             sonuc += chr((ord(karakter) - base - 5) % 26 + base)
-        elif karakter.isdigit():  # Sayı kontrolü
+        elif karakter.isdigit(): 
             sayac += karakter
         else:  # Özel karakterler
             if sayac:
-                sonuc += sayac[::-1]  # Sayıları ters çevir ve ekle
+                sonuc += sayac[::-1] 
                 sayac = ""
             sonuc += karakter
     if sayac:
-        sonuc += sayac[::-1]  # Son kalan sayıları ters çevir ve ekle
+        sonuc += sayac[::-1]  
     return sonuc
-
 
 
 sifreli_mesaj = sifrele(kendi_mesaj)  # Mesajı şifrele
 cozulmus_mesaj = sifreCoz(sifreli_mesaj)  # Şifreli mesajı çöz
 
-# Sonuçları ekrana yazdır
 print("Test Mesajının Çözümü:", sifreCoz("ymj vznhp gwtbs ktc ozrux tajw ymj qfed itl"))
 
-# Kullanıcıdan mesaj al
 kendi_mesaj = input("Şifrelenecek mesajı girin: ")
 
 print("Girdiğiniz Mesaj: ", cozulmus_mesaj)
