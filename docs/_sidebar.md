@@ -23,3 +23,15 @@
     * [Üretken Yapay Zeka Chatbotları](lessons/04_chatbotcesitlerikarsilastirma.md#Üretken-yapay-zeka-chatbotları)
 * Yapay Zekanın gelişimi bir tehike mi?
     * [Yapay Zekanın gelişimi bir tehike mi?](lessons/05_yapay_zekanin_gelisimi_tehlikemi.md#yapay-zekanın-gelişimi-bir-tehike-mi)
+    * [Teknolojik Devrim ve İnsanlık](lessons/05_yapay_zekanin_gelisimi_tehlikemi.md#teknolojik-devrim-ve-i̇nsanlık)
+    * [Yapay Zeka ve İnsan Becerilerinin Evrimi](lessons/05_yapay_zekanin_gelisimi_tehlikemi.md#yapay-zeka-ve-i̇nsan-becerilerinin-evrimi)
+    * [Yapay Zeka ve İş Gücü: Tehdit mi, Yardımcı mı?](lessons/05_yapay_zekanin_gelisimi_tehlikemi.md#yapay-zeka-ve-i̇ş-gücü-tehdit-mi-yardımcı-mı)
+    * [Yapay Zeka ve Etik: Kararların Sorumluluğu](lessons/05_yapay_zekanin_gelisimi_tehlikemi.md#yapay-zeka-ve-etik-kararların-sorumluluğu)
+    * [Yapay Zekanın Riskleri](lessons/05_yapay_zekanin_gelisimi_tehlikemi.md#yapay-zekanın-riskleri)
+    * [Yapay Zeka Regülasyonları ve Alınması Gereken Önlemler](lessons/05_yapay_zekanin_gelisimi_tehlikemi.md#yapay-zeka-regülasyonları-ve-alınması-gereken-önlemler)
+* Üretken Yapay Zeka'yı Daha İyi Anlamak
+   * [Teknik Altyapı ve Matematiksel Temeller](lessons/07_gen_ai_llm.md#teknik-altyapı-ve-matematiksel-temeller)
+   * [Transformer Mimarisi ve Öz-Dikkat Mekanizması](lessons/07_gen_ai_llm.md#transformer-mimarisi-ve-öz-dikkat-mekanizması)
+   * [Büyük Dil Modellerinin Evrimi](lessons/07_gen_ai_llm.md#büyük-dil-modellerinin-evrimi)
+   * [Uygulamalar ve Etkiler ](lessons/07_gen_ai_llm.md#uygulamalar-ve-etkiler)
+  
