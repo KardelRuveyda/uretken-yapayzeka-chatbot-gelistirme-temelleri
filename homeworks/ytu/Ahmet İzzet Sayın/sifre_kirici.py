@@ -19,6 +19,8 @@ def encrypt(text):
 def decrypt(text):
     return caesar_cipher_custom(reverse_numbers(text), shift=-5)
 
+#github için deneme terminalden pushlamaya çalışıcam
+
 # Örnek kullanım
 encrypted_text = "ymj vznhp gwtbs ktc ozrux tajw ymj qfed itl"
 decrypted_text = decrypt(encrypted_text)
