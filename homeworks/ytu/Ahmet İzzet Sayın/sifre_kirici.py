@@ -19,20 +19,43 @@ def encrypt(text):
 def decrypt(text):
     return caesar_cipher_custom(reverse_numbers(text), shift=-5)
 
-#github için deneme terminalden pushlamaya çalışıcam
+def main_menu():
+    while True:
+        print("\n1- Şifreli mesaj çöz")
+        print("2- Mesaj şifrele")
+        print("3- Çıkış yap")
+        choice = input("Seçiminizi yapın (1/2/3): ")
 
-# Örnek kullanım
-encrypted_text = "ymj vznhp gwtbs ktc ozrux tajw ymj qfed itl"
-decrypted_text = decrypt(encrypted_text)
+        if choice == "1":
+            while True:
+                encrypted_text = input("Çözülecek şifreli metni girin: ")
+                decrypted_text = decrypt(encrypted_text)
+                print("Çözülmüş Metin:", decrypted_text)
+                sub_choice = input("Üst menü için 1'e, çıkış yapmak için 2'ye basın: ")
+                if sub_choice == "1":
+                    break
+                elif sub_choice == "2":
+                    print("Çıkış yapılıyor...")
+                    return
 
-print("Çözülen Metin:", decrypted_text)
+        elif choice == "2":
+            while True:
+                user_text = input("Şifrelenecek metni girin: ")
+                encrypted_user_text = encrypt(user_text)
+                print("Şifrelenmiş Metin:", encrypted_user_text)
+                sub_choice = input("Üst menü için 1'e, çıkış yapmak için 2'ye basın: ")
+                if sub_choice == "1":
+                    break
+                elif sub_choice == "2":
+                    print("Çıkış yapılıyor...")
+                    return
 
-# Kullanıcının kendi mesajını şifreleyip çözmesi için giriş alalım:
-user_text = input("Şifrelenecek metni girin: ")
-encrypted_user_text = encrypt(user_text)
-decrypted_user_text = decrypt(encrypted_user_text)
+        elif choice == "3":
+            print("Çıkış yapılıyor...")
+            break
 
-print("Şifrelenmiş Metin:", encrypted_user_text)
-print("Çözülmüş Metin:", decrypted_user_text)
+        else:
+            print("Geçersiz seçim, lütfen tekrar deneyin.")
 
-#deneme
+# Programı başlat
+main_menu()
