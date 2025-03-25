@@ -1,0 +1,15 @@
+langchain
+langchain_community
+python-dotenv
+streamlit
+langchain_experimental
+sentence-transformers
+langchain_chroma
+langchainhub
+pypdf
+rapidocr-onnxruntime
+langchain_openai
+transformers
+sentence-transformers
+huggingface_hub
+langchain_huggingface
