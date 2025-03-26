@@ -3,7 +3,7 @@ def caesar_cipher_custom(text, shift=5):
     for char in text:
         if char.isalpha():
             shift_base = ord('A') if char.isupper() else ord('a')
-            result.append(chr((ord(char) - shift_base + shift) % 26 + shift_base))
+            result.append(chr((ord(char) - shift_base + shift) % 26 + shift_base)) # Karakterlerin şifrelenme biçimi ayarlanır
         elif char.isdigit():
             result.append(char)  # Sayılar şifrelenmez, ters çevrileceği için aynen eklenir
         else:
