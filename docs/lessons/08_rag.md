@@ -105,30 +105,30 @@ RAG, doğru uygulandığında üretken yapay zekâ sistemlerine önemli avantajl
 
 **1-Sanal Ortam Oluşturma:**
 
-'''python
+``` python
 python3 -m venv venv
 source venv/bin/activate
-'''
+``` 
 
 **2-Sanal Ortam Oluşturma:**
 
-'''python
+``` python
 pip install chromadb
-'''
+``` 
 
 ### ChromaDB’de Koleksiyon Oluşturma
 
-'''python
+``` python
 import chromadb
 client = chromadb.PersistentClient(path="./vectorstore")
 collection = client.get_or_create_collection(name="programlama")
-'''
+```
 
 📝 Koleksiyon = SQL'deki tablo gibi düşünülür.
 
 ### Veri Ekleme
 
-'''python
+``` python
 collection.add(
   documents=[
     "Python harika bir dildir.",
@@ -141,5 +141,5 @@ collection.add(
   ids=["1", "2", "3"]
 )
 
-'''
+``` 
 
