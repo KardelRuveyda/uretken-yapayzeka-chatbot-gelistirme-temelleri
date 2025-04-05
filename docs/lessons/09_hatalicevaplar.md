@@ -16,9 +16,7 @@ _“Üzülerek söylemeliyim ki Zorunlu Trafik Sigortası yurt dışında geçer
 ![image](https://github.com/user-attachments/assets/c015b90c-59b2-4141-8f72-8fb6cc62b61a)
 
 
-## Teori 1
-
-### 🎯 TEORİ 1 – Klasik Makine Öğrenmesi (ML) ile Geliştirilmiş Bot
+## Teori 1 Klasik Makine Öğrenmesi (ML) ile Geliştirilmiş Bot
 
 * Bu tarz botlar genellikle sabit sınıflandırmalara ve sınırlı veri kümelerine dayanır.
 * Eğitim verisi yetersiz veya bağlam algısı zayıf olabilir.
@@ -106,9 +104,7 @@ _**🧨 Sonuç: Sağlık sigortası sorulmasına rağmen “trafik sigortası”
 
 
 
-## Teori 2
-
-### 🤖 LLM + RAG Kullanılmış Ancak Halüsinasyon Olmuş
+## Teori 2 LLM + RAG Kullanılmış Ancak Halüsinasyon Olmuş
 
 * Eğer bot, LLM ve RAG destekliyse (örneğin GPT tabanlı), veritabanı ya da bilgi kaynağından gelen yanıtı üretim sürecinde yanlış ilişkilendirmiş olabilir.
 * Bu durumda “hallucination” yani LLM’in uydurma cevap verme durumu söz konusu olabilir.
@@ -151,7 +147,6 @@ _**🧨 Sonuç: Sağlık sigortası sorulmasına rağmen “trafik sigortası”
 3. Bu belgeler LLM’e **destek veri** olarak gönderilir.
 4. LLM prompt + belge içeriklerine göre yanıt üretir.
 
----
 
 ## 🚨 3. Hatalı Cevap Durumu: Ne Oldu?
 
@@ -166,23 +161,6 @@ _**🧨 Sonuç: Sağlık sigortası sorulmasına rağmen “trafik sigortası”
 - **Olası Sebep 1:** Trafik Sigortasıyla ilgili dökümanlar vektör veritabanında daha fazla olabilir. En yakın belge bu kategoriye ait olabilir.
 - **Olası Sebep 2:** Prompt net değilse ya da temperature değeri yüksekse, model doğru dokümantasyona rağmen **halüsinasyon** üretmiş olabilir.
 
----
-
-## 🧰 4. LangChain ve LangSmith Rolü
-
-### 🛠 LangChain
-
-- Uygulama içindeki zincir yapılarını ve RAG akışını yönetir.
-- Döküman getirici, embedder, prompt yöneticisi gibi tüm bileşenler buradan kontrol edilir.
-
-### 🔍 LangSmith
-
-- Üretilen cevapların hangi dökümandan geldiğini analiz etmeye yarar.
-- Yanlış cevapların izini sürmek ve debugging yapmak için kullanılır.
-
----
-
-## ✅ Sonuç
 
 RAG mimarisinde doğru döküman, doğru embedding ve doğru prompt olmazsa:
 
@@ -190,7 +168,6 @@ RAG mimarisinde doğru döküman, doğru embedding ve doğru prompt olmazsa:
 - Kullanıcı sorusuna yanlış yanıt döner.
 - Sistem güvenilirliğini kaybedebilir.
 
-### 🔑 Anahtar Başlıklar:
 
 | Aşama              | Risk                                                   |
 |--------------------|--------------------------------------------------------|
