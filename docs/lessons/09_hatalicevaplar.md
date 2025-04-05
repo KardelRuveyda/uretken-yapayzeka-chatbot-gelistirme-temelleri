@@ -27,9 +27,9 @@ _“Üzülerek söylemeliyim ki Zorunlu Trafik Sigortası yurt dışında geçer
 **✅ İhtimal: Yüksek**
 * Çünkü klasik botlar genellikle bağlamı güçlü analiz edemez ve yüzeysel eşleşmeye göre cevap verir.
 
-![image](https://github.com/user-attachments/assets/b6d01fd7-095b-47fe-8ae2-a5136b4b4014)
-
 ## Teori 1 Gerçekleşme Süreci 
+
+![image](https://github.com/user-attachments/assets/b6d01fd7-095b-47fe-8ae2-a5136b4b4014)
 
 ![image](https://github.com/user-attachments/assets/3f5fc986-85f6-40f4-879c-a145538ea25b)
 
