@@ -149,19 +149,6 @@ _**🧨 Sonuç: Sağlık sigortası sorulmasına rağmen “trafik sigortası”
 
 - Temperature, Top-p gibi parametreler de dikkatle ayarlanmalı, aksi halde **LLM halüsinasyon riski** taşır.
 
----
-
-## 🧪 2. Sürecin Teknik Akışı (RAG Mimarisi)
-
-```mermaid
-graph LR
-    A[Text Verisi (Hazırlık)] --> B[Vektörleştirme (Embedding)]
-    B --> C[Vektör Veritabanına Kaydet (Chroma, Faiss)]
-    C --> D[LLM]
-    D --> E[Yanıt (Response)]
-
-    D -->|Prompt Örneği| C2[Sen sigorta poliçelerini yanıtlayan bir asistansın...]
-```
 
 ### 🔄 RAG (Retriever-Augmented Generation) Süreci
 
