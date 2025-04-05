@@ -141,5 +141,46 @@ collection.add(
   ids=["1", "2", "3"]
 )
 
-``` 
+```
+
+### Sorgu Benzerlik Araması
+
+
+``` python
+result = collection.query(
+  query_texts=["Python"],
+  n_results=2
+)
+print(result)
+```
+
+📌 Sorgunuz embed edilir ve benzer dökümanlar vektörel olarak karşılaştırılır.
+
+### Güncelleme
+
+
+``` python
+collection.update(
+  documents=["Güncellenmiş içerik"],
+  ids=["2"],
+  metadatas=[{"sayfa": 99}]
+)
+```
+
+### Silme
+
+``` python
+collection.delete(ids=["3"])
+```
+
+### Filtreleme (where)
+
+
+``` python
+collection.get(
+  where={"sayfa": {"$lt": 100}},
+  include=["documents"]
+)
+```
+
 
