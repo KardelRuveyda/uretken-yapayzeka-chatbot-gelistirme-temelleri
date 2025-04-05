@@ -55,6 +55,7 @@ Elde edilen bu vektörleri depolamak ve hızlı arama yapabilmek için vektör v
 
  Embedding’ler, metinleri sayısal olarak karşılaştırılabilir hale getirirken; vektör veri tabanları da bu karşılaştırmayı büyük ölçekli veri için mümkün kılar. Sonuçta RAG sistemi, soruyla en alakalı bilgi parçalarını tespit edip getirebilir.
 
+
 ### Bilgi getirme mekanizmaları
 
 Bilgi getirme, sparse (seyrek) ve dense (yoğun) olmak üzere iki temel yaklaşımla gerçekleştirilebilir:
@@ -92,5 +93,53 @@ RAG, doğru uygulandığında üretken yapay zekâ sistemlerine önemli avantajl
 * İzlenebilirlik ve Düzeltilebilirlik: RAG modelleri, yanıtları desteklemek için kullandıkları kaynakları bildiği için şeffaflık sunar. Bir yanıtın hangi dokümana dayandığı tespit edilebilir; eğer hata varsa ilgili doküman düzeltilerek modelin gelecekteki çıktıları da düzeltilebilir​. Bu, kurumsal uygulamalarda denetim ve doğrulama açısından büyük avantajdır.
 * Azalan Halüsinasyon ve Artan Doğruluk: Model, cevabını harici belgelerle temellendirdiği için uydurma veya yanlış bilgi verme olasılığı düşer. RAG kullanımı, LLM’nin “kendi hafızasındaki” tutarsızlıklardansa gerçek kaynaklara dayanmasını sağlar​.
 
+## Vektör Veri Tabanı: ChromaDB
 
+ **ChromaDB**, embedding’leri saklayan ve arayan bir vektör veritabanıdır.
+
+* Embedding’leri saklar
+* Sorguları vektör benzerliğine göre arar
+* RAG sistemlerine kolay entegre edilir.
+
+### Kurulum: ChromaDB ile İlk Uygulama
+
+**1-Sanal Ortam Oluşturma:**
+
+'''python
+python3 -m venv venv
+source venv/bin/activate
+'''
+
+**2-Sanal Ortam Oluşturma:**
+
+'''python
+pip install chromadb
+'''
+
+### ChromaDB’de Koleksiyon Oluşturma
+
+'''python
+import chromadb
+client = chromadb.PersistentClient(path="./vectorstore")
+collection = client.get_or_create_collection(name="programlama")
+'''
+
+📝 Koleksiyon = SQL'deki tablo gibi düşünülür.
+
+### Veri Ekleme
+
+'''python
+collection.add(
+  documents=[
+    "Python harika bir dildir.",
+    "Dosya işlemleri için context manager kullanılır.",
+    "Type hints, kodu belgelendirmeye yarar."
+  ],
+  metadatas=[
+    {"sayfa": 2}, {"sayfa": 5}, {"sayfa": 7}
+  ],
+  ids=["1", "2", "3"]
+)
+
+'''
 
