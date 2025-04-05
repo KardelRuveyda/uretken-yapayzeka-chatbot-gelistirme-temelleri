@@ -25,15 +25,19 @@ Yukarıdaki kuralları uyguladıkça, Büyük Dil Modelleri’nin size verdiği 
 Aşağıda, aynı konu için yazılmış kötü ve iyi prompt örneklerini karşılaştırmalı olarak görebilirsiniz. Kötü örneklerde sorular genellikle çok genel, belirsiz veya yetersiz iken, iyi örnekler daha net, yönlendirici ve amaca uygun şekilde yazılmıştır:
 
 **Kötü:** "Sağlıklı yaşam hakkında bilgi ver." <br/>(Çok genel bir istek; hangi yönüyle sağlıklı yaşam?)
+
 **İyi:** "Öner: Dengeli beslenme, düzenli egzersiz ve yeterli uykunun sağlıklı yaşam tarzını sürdürmedeki rolünü açıkla." <br/>(Belirli unsurları vurgulayarak sağlıklı yaşamın üç temel unsurunu açıkla talebi)
 
 **Kötü**: "Özetle: Renklerin insan psikolojisi üzerindeki genel etkilerini ve özellikle mavi rengin sakinleştirici etkisine dair bilimsel kanıtları sun." <br/>(Hangi konuda özet istendiği ve özel bir vurguyla belirtilmiş)​
+
 **İyi:** "Renkler ve psikoloji." <br/>(Ne isteniyor belli değil; renklerin psikolojiyle ilişkisi mi?)
 
 **Kötü:** "Kripto para birimleri." <br/>(Çok geniş bir konu, spesifik değil)
+
 **İyi:**  "Analiz et: 2021'den bu yana Bitcoin'in fiyat dalgalanmalarını ve bu dalgalanmaların olası nedenlerini incele." <br/>(Belirli bir zaman aralığı ve içerik isteyerek daha odaklı bir analiz talebi)​
 
 **Kötü:** "Photoshop'ta katmanlar." <br/>(Soru mu, istek mi? Konu belirsiz)
+
 **İyi:**  "Kısa özet yaz: Photoshop'taki katmanların temel işlevlerini 100 kelimeyle açıkla." <br/>(Hangi konuda, ne formatta ve ne uzunlukta cevap istendiği belirtilmiş)​
 
 Yukarıdaki örneklerde görüldüğü gibi, kötü promptlar kısa ve belirsiz olup modelin hangi yönde cevap vermesi gerektiğini açıkça belirtmiyor. Oysa iyi promptlar yönerge, bağlam ve ayrıntı vererek modelin işini kolaylaştırıyor. 
