@@ -124,5 +124,102 @@ _**🧨 Sonuç: Sağlık sigortası sorulmasına rağmen “trafik sigortası”
 
 ## Teori 2 Gerçekleşme Süreci
 
+### 🔢 Adım 1 - Veri Seti Hazırlığı (Text Verisi)
+
+- Chatbot için diyaloğa dayalı veya bilgi temelli soruların yer aldığı veri seti hazırlanır.
+- Örnek:
+  - **Soru:** “Sağlık poliçem kalça ultrasonunu kapsıyor mu?”
+  - Bu tür sorular farklı kategorilerde etiketlenebilir (sağlık, trafik, onay, selamlama vs.)
+
+### 🧠 Adım 2 - LLM Seçimi
+
+- Generative AI destekli bir sistemde büyük dil modelleri (LLM'ler) kullanılır.
+- Model şirket içinde eğitilmiş (on-premise) olabilir ya da bir cloud servisinden alınmış olabilir.
+
+### 🔁 Adım 3 - Embedding ve Vektör Veritabanı
+
+- Elimizdeki **metin verisi**, LLM’in anlayabilmesi için **vektör** (embedding) formatına çevrilir.
+- Bu vektörler, ChromaDB, Faiss gibi vektör veritabanlarında saklanır.
+
+### ⚙️ Adım 4 - Prompt Mühendisliği
+
+- LLM’e giden prompt’lar doğru tanımlanmalıdır.
+- Örneğin:
+  > “Sen yalnızca sigorta poliçeleri hakkında bilgi veren bir asistansın. Diğer konulara yanıt vermemelisin.”
+
+- Temperature, Top-p gibi parametreler de dikkatle ayarlanmalı, aksi halde **LLM halüsinasyon riski** taşır.
+
+---
+
+## 🧪 2. Sürecin Teknik Akışı (RAG Mimarisi)
+
+```mermaid
+graph LR
+    A[Text Verisi (Hazırlık)] --> B[Vektörleştirme (Embedding)]
+    B --> C[Vektör Veritabanına Kaydet (Chroma, Faiss)]
+    C --> D[LLM]
+    D --> E[Yanıt (Response)]
+
+    D -->|Prompt Örneği| C2[Sen sigorta poliçelerini yanıtlayan bir asistansın...]
+```
+
+### 🔄 RAG (Retriever-Augmented Generation) Süreci
+
+1. **Kullanıcının sorusu** vektöre çevrilir.
+2. Vektör veritabanında en benzer içerikler bulunur.
+3. Bu belgeler LLM’e **destek veri** olarak gönderilir.
+4. LLM prompt + belge içeriklerine göre yanıt üretir.
+
+---
+
+## 🚨 3. Hatalı Cevap Durumu: Ne Oldu?
+
+### ❓ Soru:
+> “Sağlık poliçem kalça ultrasonunu kapsıyor mu?”
+
+### ❌ Yanıt:
+> “Üzülerek söylemeliyim ki Zorunlu Trafik Sigortası yurt dışında geçerli değildir.”
+
+### 📉 Neden Bu Yanıt Geldi?
+
+- **Olası Sebep 1:** Trafik Sigortasıyla ilgili dökümanlar vektör veritabanında daha fazla olabilir. En yakın belge bu kategoriye ait olabilir.
+- **Olası Sebep 2:** Prompt net değilse ya da temperature değeri yüksekse, model doğru dokümantasyona rağmen **halüsinasyon** üretmiş olabilir.
+
+---
+
+## 🧰 4. LangChain ve LangSmith Rolü
+
+### 🛠 LangChain
+
+- Uygulama içindeki zincir yapılarını ve RAG akışını yönetir.
+- Döküman getirici, embedder, prompt yöneticisi gibi tüm bileşenler buradan kontrol edilir.
+
+### 🔍 LangSmith
+
+- Üretilen cevapların hangi dökümandan geldiğini analiz etmeye yarar.
+- Yanlış cevapların izini sürmek ve debugging yapmak için kullanılır.
+
+---
+
+## ✅ Sonuç
+
+RAG mimarisinde doğru döküman, doğru embedding ve doğru prompt olmazsa:
+
+- LLM yanlış bilgiyle eğitilir.
+- Kullanıcı sorusuna yanlış yanıt döner.
+- Sistem güvenilirliğini kaybedebilir.
+
+### 🔑 Anahtar Başlıklar:
+
+| Aşama              | Risk                                                   |
+|--------------------|--------------------------------------------------------|
+| Veri Hazırlığı     | Eksik veya dengesiz veri → yanlış yakınlık            |
+| Embedding          | Kalitesiz vektörler → alakasız sonuçlar               |
+| Prompt Mühendisliği| Eksik yönlendirme → kontrolsüz model davranışı        |
+| Temperature        | Yüksek değer → halüsinasyon riski                     |
+
+---
+
+
 ![image](https://github.com/user-attachments/assets/1a661098-66a9-4522-a3f9-94d42acfaff5)
 
