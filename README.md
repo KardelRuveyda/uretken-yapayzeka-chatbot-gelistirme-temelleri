@@ -11,7 +11,17 @@ Bu ders, öğrencilerin üretken yapay zeka teknolojilerini kullanarak chatbot g
 Bu projeye katkıda bulunan geliştiriciler:
 
 <div align="left">
-  <a href="https://github.com/berkayzaimdev" target="_blank">
-    <img src="https://github.com/berkayzaimdev.png" width="100" style="border-radius: 50%; border: 2px solid #ddd; margin: 5px;" alt="Berkay Zaim">
+  <a href="https://github.com/FurkanYeter" target="_blank">
+    <img src="https://github.com/FurkanYeter.png" width="80" alt="FurkanYeter" />
   </a>
+  <a href="https://github.com/EmreKecici" target="_blank">
+    <img src="https://github.com/EmreKecici.png" width="80" alt="EmreKecici" />
+  </a>
+  <a href="https://github.com/GhostCavalry" target="_blank">
+    <img src="https://github.com/GhostCavalry.png" width="80" alt="GhostCavalry" />
+  </a>
+  <a href="https://github.com/hilalfener" target="_blank">
+    <img src="https://github.com/hilalfener.png" width="80" alt="hilalfener" />
+  </a>
+  <!-- Bu yapı 49 kullanıcı için devam ediyor... -->
 </div>
