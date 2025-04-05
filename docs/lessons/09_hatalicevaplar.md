@@ -116,12 +116,6 @@ _**🧨 Sonuç: Sağlık sigortası sorulmasına rağmen “trafik sigortası”
 **❗️İhtimal: Düşük**
 * Çünkü LLM’ler genellikle bağlamı çok daha iyi anlar. Ancak doğru yapılandırılmaz veya yanlış veriyle desteklenirse bu tür hatalar yine de olabilir.
 
-![image](https://github.com/user-attachments/assets/ad34c386-2997-4557-8e7f-d2f26d644982)
-
-
-![image](https://github.com/user-attachments/assets/ea43d832-2261-4150-af45-f6f2b159c6e6)
-
-
 ## Teori 2 Gerçekleşme Süreci
 
 ### 🔢 Adım 1 - Veri Seti Hazırlığı (Text Verisi)
@@ -207,6 +201,7 @@ RAG mimarisinde doğru döküman, doğru embedding ve doğru prompt olmazsa:
 
 ---
 
-
+![image](https://github.com/user-attachments/assets/ad34c386-2997-4557-8e7f-d2f26d644982)
+![image](https://github.com/user-attachments/assets/ea43d832-2261-4150-af45-f6f2b159c6e6)
 ![image](https://github.com/user-attachments/assets/1a661098-66a9-4522-a3f9-94d42acfaff5)
 
