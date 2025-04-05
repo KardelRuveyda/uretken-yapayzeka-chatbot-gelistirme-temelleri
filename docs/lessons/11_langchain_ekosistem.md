@@ -3,11 +3,40 @@
 
 ![image](https://github.com/user-attachments/assets/c065fe5f-281c-48c4-bf05-22127ceed909)
 
+## Langchain Amaçları
+
+* LLM'lerle etkileşimi kolaylaştırmak
+* Zincir (Chain) yapısıyla birden fazla adımı birleştirerek akıllı uygulamalar geliştirmek
+* Harici veri kaynakları (veritabanı, API, PDF vb.) ile çalışmak
+* İzlenebilir, test edilebilir uygulamalar sunmak
+
+## LangChain Temel Bileşenleri
+
+* **PromptTemplate**: LLM'e sorulacak sorunun şablonunu belirler.
+* **LLM**: ChatOpenAI veya benzeri model ile entegre çalışır.
+* **OutputParser**: Model çıktısını uygun formata dönüştürür.
+* b: Sohbet uygulamalarında bağlam saklar.
+* **Chains**: Tüm bu bileşenleri bir zincir yapısında birleştirir.
+* **Tools & Agents**: Web tarayıcı, hesap makinesi gibi dış sistemlerle çalışan ajanlar
+
+## LangChain Yan Platformları:
+
+* **LangGraph**: Karmaşık iş akışların döngüel grafikler olarak modellenmesini sağlar.
+* **LangSmith**: Uygulamaların test edilmesi, hata ayıklanması ve gözlemlenmesini sağlayan geliştirme ortamı.
 
 ## LangChain'de Zincirlerin (Chains) Önemi
 
 Zincirler, LLM'lerle etkileşimi daha yapılandırılmış ve verimli hale getirir. Basit bir zincir, bir istemin (prompt) hazırlanıp modele iletilmesi ve ardından modelin çıktısının alınması şeklinde olabilir. Daha karmaşık zincirler ise birden fazla model çağrısını, veri ön işleme adımlarını ve harici araçlarla entegrasyonları içerebilir. Bu yapı, geliştiricilere esneklik sağlar ve uygulamaların modülerliğini artırır. ​
 
+## LangChain Kullanım Alanları
+
+* Sohbet botları
+* Belge özetleme
+* Soru-cevap sistemleri
+* Bilgiye dayalı karar verme sistemleri
+* PDF, veritabanı, API ile çalışan yapılar
+
+LangChain, geliştiricilere LLM tabanlı uygulamaları çok daha sistematik ve modüler şeklinde inşa etme fırsatı sunar. Hem akademik çalışmalarda hem de endüstriyel uygulamalarda yaygınlaşan bir altyapıdır.
 
 ## Zincir Türleri
 
