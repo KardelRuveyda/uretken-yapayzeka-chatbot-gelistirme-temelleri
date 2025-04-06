@@ -109,3 +109,20 @@
 *  Gemini ve LangChain Kullanarak RAG ile Chatbot Geliştirme
    *  [Gemini ve LangChain Kullanarak RAG ile Chatbot Geliştirme](lessons/14_gemini_langchain_rag.md#gemini-ve-langchain-kullanarak-rag-ile-chatbot-geliştirme)
 
+*  ChatOpenAI ile Temel LangChain RAG Kullanımı
+   *  [Gerekli Kurulumlar](lessons/15_chatopenai_langchain.md#-gerekli-kurulumlar)
+   *  [📥 OpenAI API Key Nasıl Alınır?](lessons/15_chatopenai_langchain.md#-openai-api-key-nasıl-alınır)
+   *  [🔍 Embedding: OpenAIEmbeddings Kullanımı](lessons/15_chatopenai_langchain.md#-embedding-openaiembeddings-kullanımı)
+   *  [🤖 Chat: GPT-4o Modeli ile Sohbet](lessons/15_chatopenai_langchain.md#-chat-gpt-4o-modeli-ile-sohbet)
+   *  [📌 Örnek Kullanım](lessons/15_chatopenai_langchain.md#-örnek-kullanım)
+   *  [📎 Ek Bilgiler](lessons/15_chatopenai_langchain.md#-ek-bilgiler)
+   *  [🔗 Kaynak Notebook](lessons/15_chatopenai_langchain.md#-kaynak-notebook)
+ 
+*  HuggingFace ile Temel LangChain RAG Kullanımı
+   *  [📌 Hugging Face Nedir?](lessons/16_huggingface_langchain.md#-hugging-face-nedir)
+   *  [📦 Kurulum](lessons/16_huggingface_langchain.md#-kurulum)
+   *  [🔐 Hugging Face API Token Nasıl Alınır?](lessons/16_huggingface_langchain.md#-hugging-face-api-token-nasıl-alınır)
+   *  [🔡 Embedding Modeli (Vektörleştirme)](lessons/16_huggingface_langchain.md#-embedding-modeli-vektörleştirme)
+   *  [🧠 LLM (Dil Modeli) Kullanımı](lessons/16_huggingface_langchain.md#-llm-dil-modeli-kullanımı)
+   *  [✅ Özet](lessons/16_huggingface_langchain.md#-özet)
+   *  [🔗 Kaynak Notebook](lessons/16_huggingface_langchain.md)
