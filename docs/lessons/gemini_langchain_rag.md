@@ -1,6 +1,6 @@
 ## Gemini ve LangChain Kullanarak RAG ile Chatbot Geliştirme 
 
-🔗 Konu anlatımı ve konuyu detaylıca anlamak için: [Gemini ve LangChain Kullanarak RAG ile Chatbot Geliştirme](https://ruveydakardelcetin.medium.com/gemini-ve-langchain-kullanarak-rag-ile-chatbot-geli%C5%9Ftirme-c6b6b03ad854)
+👉 <a href="https://ruveydakardelcetin.medium.com/gemini-ve-langchain-kullanarak-rag-ile-chatbot-geli%C5%9Ftirme-c6b6b03ad854" target="_blank">Gemini ve LangChain Kullanarak RAG ile Chatbot Geliştirme</a>
 
-
-🎥 Makalenin video anlatımını izlemek için: [Basic LLM Invoke](https://www.youtube.com/watch?v=oWlaMUcOWYM&t=7782s&ab_channel=MultiGroupCommunity)
+🎥 **Video anlatımı izlemek için:**  
+👉 <a href="https://www.youtube.com/live/oWlaMUcOWYM?si=N5iuEmLDseY9g_yO" target="_blank">YouTube Videosu - LangChain & Gemini ile RAG Uygulaması</a>
