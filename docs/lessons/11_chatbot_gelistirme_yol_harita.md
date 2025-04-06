@@ -1,45 +1,48 @@
 ## Yol Haritası Adımları ve Zorluk Seviyeleri
 
-Bu yol haritası, sıfırdan başlayarak üretken yapay zeka destekli bir chatbot geliştirmek isteyen herkes için rehber niteliğindedir. Her adım, projeyi oluşturan bileşenleri katmanlı olarak tanıtarak teknik bilgi seviyenizi aşamalı olarak artırmayı hedefler. Başlangıçta temel yapay zeka kavramlarıyla giriş yapılırken, ilerleyen adımlarda RAG mimarisi, vektör veritabanları, LLM seçimi, güvenlik gibi ileri düzey konulara geçilir. Her bölüm, zorluk seviyesine göre etiketlenmiştir ve öğrenme sürecinizi planlam...
-
+Bu yol haritası, üretken yapay zeka destekli chatbot geliştirme sürecini adım adım ele alır. Her aşama, kavramsal bilgiden uygulamaya geçişte karşılaşabileceğiniz zorluk derecelerine göre sıralanmıştır. Başlangıç düzeyinden ileri seviyeye kadar yapılandırılmış bu rehber, hem teorik hem pratik bilgi sağlayarak sağlam bir öğrenme süreci sunmayı hedefler.
 ---
 
 ### Yapay Zeka ve Makine Öğrenmesi Temel Kavramlar ⭐
-- Yapay zeka, makine öğrenmesi, denetimli/denetimsiz öğrenme, model nedir gibi temel bilgiler.
+
+Yapay zeka (AI) ve makine öğrenmesi (ML), günümüzde akıllı sistemlerin temelini oluşturur. Bu aşamada, yapay zekanın ne olduğu, makine öğrenmesinin nasıl çalıştığı, denetimli (supervised) ve denetimsiz (unsupervised) öğrenme yöntemleri, model, eğitim verisi, doğruluk gibi temel terimler öğrenilmelidir.
 
 ### Üretken Yapay Zeka (Generative AI) Nedir? ⭐⭐
-- GPT, LLM (Large Language Model), Transformer mimarisi gibi üretici modellerin temelleri.
+
+Generative AI, yeni içerik (metin, görsel, ses vb.) üretebilen modelleri ifade eder. Bu başlık altında, GPT mimarisi, LLM (Large Language Model), Transformer yapısı gibi kavramlar ele alınmalı, özellikle üretici modellerin nasıl çalıştığı, eğitim süreci ve kullanım alanları incelenebilir.
 
 ### RAG Nedir? ⭐⭐⭐⭐
-- **Retriever-Augmented Generation (RAG)** mimarisi tanıtılır.
-- Basic ve Advanced seviye uygulama farkları açıklanır.
-- ChromaDB, FAISS gibi vektör veritabanları kullanımı.
+
+**Retriever-Augmented Generation (RAG)**, büyük dil modellerinin dış veri kaynaklarına erişerek daha güncel ve doğru yanıtlar verebilmesini sağlar. Bu aşamada **RAG**'in temel yapısı, **Retriever (bilgi bulucu)** ve **Generator (cevap üretici) ilişkisi**, **ChromaDB** ve **FAISS** gibi vektör veritabanlarının kullanımı ele alınması doğru olabilir.
 
 ### Prompt Mühendisliği ve Yöntemleri ⭐⭐⭐⭐
-- Etkili prompt oluşturma, few-shot, chain-of-thought, zero-shot teknikleri.
-- Role-based prompting ve output formatlama.
+
+**Prompt mühendisliği**, LLM'lerle etkili iletişim kurmanın temelidir. Bu aşamada **few-shot**, **zero-shot**, **chain-of-thought teknikleri**, sistem rolleri ve yanıt biçimlendirme gibi konular öğrenilebilir. Etkili prompt yazımı için örnek templateler ve yöntemler incelenebiir. Temel seviyede ise nasıl doğru prompt yazılabileceği incelenebilir.
 
 ### Chatbot’un Hedefinin Belirlenmesi ⭐⭐
-- Chatbot müşteri desteği, bilgi erişimi, satış vb. hangi amaçla kullanılacak?
+
+Bir chatbot geliştirirken öncelikle çözmek istediğiniz problemi ve hedef kullanıcı kitlesini belirlemelisiniz. Bu adımda, chatbot'un müşteri hizmetleri, satış desteği, bilgi erişimi gibi görevleri nasıl üstleneceği netleştirilmesi önem arz eder.
 
 ### Veri Toplama ⭐⭐⭐⭐
-- Chatbot’un eğitimi için ihtiyaç duyulan domain-spesifik verilerin toplanması.
-- Yapılandırılmış ve yapılandırılmamış veri kaynakları.
+
+LLM tabanlı sistemlerde başarı, kaliteli ve amaca uygun veri ile doğrudan ilişkilidir. Bu adımda yapılandırılmış (CSV, veritabanı) ve yapılandırılmamış (PDF, metin) verilerin toplanması, temizlenmesi ve etiketlenmesi gibi işlemler ele alınabilir.
 
 ### Model Seçimi ⭐⭐
-- GPT-4, GPT-3.5, Gemini, Claude, Mistral gibi modellerin karşılaştırılması.
-- Maliyet, hız ve doğruluk faktörleri.
+
+LLM’lerin farklı sürümleri vardır ve her biri farklı güçlü yönlere sahiptir. GPT-4, Gemini, Claude, Mistral gibi modeller kıyaslanır. Seçim sürecinde doğruluk, hız, maliyet ve bağlam uzunluğu gibi kriterler değerlendirilebilir.
 
 ### Finetuning ve Basic RAG Kararı ⭐⭐⭐
-- Modeli doğrudan fine-tune etmek mi?
-- Yoksa Basic RAG ile vektör destekli chatbot mu geliştirmek?
+
+Bu aşamada özel verilerle eğitilen fine-tuned modellerle, dış belgelere dayalı çalışan RAG sistemleri arasındaki farklar anlaşılır. Hangi yaklaşımın daha uygun olduğuna kullanım senaryoları üzerinden karar verilir.
 
 ### Chatbot Test Arayüzü ⭐⭐ (Streamlit)
-- Streamlit gibi frameworklerle hızlı prototip geliştirme ve kullanıcı testi.
+
+Kullanıcılarla etkileşim için arayüz gereklidir. Python tabanlı **Streamlit** ile hızlı prototip oluşturma, kullanıcıdan girdi alma ve LLM çıktısını görsel olarak sunma yöntemleri incelenebilir.
 
 ### Güvenlik ve Prompt Injection ⭐⭐⭐
-- Prompt injection ve veri sızıntısı risklerine karşı alınabilecek güvenlik önlemleri.
-- Kullanıcı doğrulama, yetkilendirme, yanıt filtresi.
+
+Gelişmiş chatbot sistemleri güvenlik açıklarına karşı savunmasız olabilir. Bu adımda prompt injection, bilgi sızıntısı, kullanıcı doğrulama, yetkilendirme ve içerik filtreleme gibi güvenlik önlemleri ele alınabilir.
+
 
 ---
 
@@ -52,8 +55,5 @@ Bu yol haritası, sıfırdan başlayarak üretken yapay zeka destekli bir chatbo
 | **Streamlit** | Arayüz geliştirme ve prototipleme için |
 
 ---
+![image](https://github.com/user-attachments/assets/9bb68f65-7bf1-4c96-8671-132e7dc131a3)
 
-## Hedef
-Bu yol haritasını takip ederek:
-- Modern LLM destekli bir chatbot geliştirme sürecini öğreneceksin.
-- RAG mimarisiyle belge tabanlı, güvenli ve hedefe odaklı bir chatbot oluşturabileceksin.
