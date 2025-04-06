@@ -72,7 +72,16 @@
 *  Chatbot Geliştirme Yol Haritası
    *  [Yol Haritası Adımları ve Zorluk Seviyeleri](lessons/11_chatbot_gelistirme_yol_harita.md#yol-haritası-adımları-ve-zorluk-seviyeleri)
    *  [Yapay Zeka ve Makine Öğrenmesi Temel Kavramlar ⭐](lessons/11_chatbot_gelistirme_yol_harita.md#yapay-zeka-ve-makine-öğrenmesi-temel-kavramlar-)
-   *  [Teori 2 LLM + RAG Kullanılmış Ancak Halüsinasyon Olmuş](lessons/10_bot_neden_hatali_cevap_verir.md#teori-2-llm--rag-kullanılmış-ancak-halüsinasyon-olmuş)
+   *  [Üretken Yapay Zeka (Generative AI) Nedir? ⭐⭐](lessons/11_chatbot_gelistirme_yol_harita.md#üretken-yapay-zeka-generative-ai-nedir-)
+   *  [RAG Nedir? ⭐⭐⭐⭐](lessons/11_chatbot_gelistirme_yol_harita.md#rag-nedir-)
+   *  [Prompt Mühendisliği ve Yöntemleri ⭐⭐⭐⭐](lessons/11_chatbot_gelistirme_yol_harita.md#prompt-mühendisliği-ve-yöntemleri-)
+   *  [Chatbot’un Hedefinin Belirlenmesi ⭐⭐](lessons/11_chatbot_gelistirme_yol_harita.md#chatbotun-hedefinin-belirlenmesi-)
+   *  [Veri Toplama ⭐⭐⭐⭐](lessons/11_chatbot_gelistirme_yol_harita.md#veri-toplama-)
+   *  [Model Seçimi ⭐⭐](lessons/11_chatbot_gelistirme_yol_harita.md#model-seçimi-)
+   *  [Finetuning ve Basic RAG Kararı ⭐⭐⭐](lessons/11_chatbot_gelistirme_yol_harita.md#finetuning-ve-basic-rag-kararı-)
+   *  [Chatbot Test Arayüzü ⭐⭐ (Streamlit)](lessons/11_chatbot_gelistirme_yol_harita.md#chatbot-test-arayüzü--streamlit)
+   *  [Güvenlik ve Prompt Injection ⭐⭐⭐](lessons/11_chatbot_gelistirme_yol_harita.md#güvenlik-ve-prompt-injection-)
+   *  [Kullanılan Platformlar](lessons/11_chatbot_gelistirme_yol_harita.md#kullanılan-platformlar)
 *  LangChain
    *  [LangChain](lessons/12_langchain_ekosistem.md#langchain)
    *  [LangChain Amaçları](lessons/12_langchain_ekosistem.md#langchain-amaçları)
