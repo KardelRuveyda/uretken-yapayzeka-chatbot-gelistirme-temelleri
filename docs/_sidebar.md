@@ -92,7 +92,18 @@
    *  [Zincir Türleri](lessons/12_langchain_ekosistem.md#zincir-türleri)
    *  [Zincirlerin Kullanım Alanları](lessons/12_langchain_ekosistem.md#zincirlerin-kullanım-alanları)
    *  [Pratik Örnek: Basit Bir Zincir Oluşturma](lessons/12_langchain_ekosistem.md#pratik-örnek-basit-bir-zincir-oluşturma)
+
+*  Python Temelleri
+   *  [Python Kurulumu ve Giriş](lessons/13_python_temelleri.md#python-kurulumu-ve-giriş)
+   *  [Python'un Kurulumu](lessons/13_python_temelleri.md#python-kurulumu-ve-giriş)
+   *  [IDE Önerileri](lessons/13_python_temelleri.md#ide-önerileri)
+   *  [Temel Veri Yapıları (list, tuple, dictionary, set)](lessons/13_python_temelleri.md#temel-veri-yapıları-list-tuple-dictionary-set)
+   *  [Değişkenler ve Veri Tipleri](lessons/13_python_temelleri.md#değişkenler-ve-veri-tipleri)
+   *  [Koşullu İfadeler (if, elif, else)](lessons/13_python_temelleri.md#koşullu-i̇fadeler-if-elif-else)
+   *  [Döngüler (for, while)](lessons/13_python_temelleri.md#döngüler-for-while)
+   *  [Fonksiyon Tanımlama ve Çağırma](lessons/13_python_temelleri.md#fonksiyon-tanımlama-ve-çağırma)
+   *  [Temel Örnek Uygulamalar](lessons/13_python_temelleri.md#temel-örnek-uygulamalar)
+   *  [Modüller ve Kütüphaneler](lessons/13_python_temelleri.md#modüller-ve-kütüphaneler)
+   *  [Popüler Yapay Zeka ve Veri Bilimi Kütüphaneleri](lessons/13_python_temelleri.md#popüler-yapay-zeka-ve-veri-bilimi-kütüphaneleri)
    
-
-
 
