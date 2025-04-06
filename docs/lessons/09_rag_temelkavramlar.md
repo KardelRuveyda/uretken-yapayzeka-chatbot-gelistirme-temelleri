@@ -1,5 +1,3 @@
-# Retrieval-Augmented Generation (RAG): Temelden İleri Düzeye Ders Dokümanı
-
 ### RAG Nedir?
 Retrieval-Augmented Generation (RAG), büyük dil modellerinin (LLM) dış bilgi kaynaklarını kullanarak metin üretmesini sağlayan bir yapay zeka mimarisidir. Kısaca, bir LLM’e entegre edilen bilgi getirme (retrieval) mekanizması sayesinde model, yanıt üretirken eğitim verilerinin ötesindeki güncel ve güvenilir bilgilere erişebilir. Bu teknik ile model çıktıları kanıtlara dayalı hale gelir ve daha isabetli olur. RAG yaklaşımı, doğal dil işleme alanında bilgi çekme (retrieval) ve metin üretimi (generation) yeteneklerini tek bir çatı altında birleştirir; böylece modeller daha derin ve bilgi odaklı cevaplar üretebilir.
 
