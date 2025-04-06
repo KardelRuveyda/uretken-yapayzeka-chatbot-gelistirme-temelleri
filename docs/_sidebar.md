@@ -106,4 +106,6 @@
    *  [Modüller ve Kütüphaneler](lessons/13_python_temelleri.md#modüller-ve-kütüphaneler)
    *  [Popüler Yapay Zeka ve Veri Bilimi Kütüphaneleri](lessons/13_python_temelleri.md#popüler-yapay-zeka-ve-veri-bilimi-kütüphaneleri)
    
+*  Gemini ve LangChain Kullanarak RAG ile Chatbot Geliştirme
+   *  [Gemini ve LangChain Kullanarak RAG ile Chatbot Geliştirme](lessons/14_gemini_langchain_rag.md#gemini-ve-langchain-kullanarak-rag-ile-chatbot-geliştirme)
 
