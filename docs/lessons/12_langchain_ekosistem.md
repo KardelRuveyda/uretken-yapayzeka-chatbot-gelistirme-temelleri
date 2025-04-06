@@ -41,8 +41,10 @@ LangChain, geliştiricilere LLM tabanlı uygulamaları çok daha sistematik ve m
 ## Zincir Türleri
 
 1- **Basit Zincirler (Simple Chains):** Tek bir LLM çağrısını içerir. Örneğin, bir kullanıcının sorusunu alıp doğrudan modele ileterek yanıt almak.​
+
 2- **Çok Adımlı Zincirler (Multi-Step Chains):** Birden fazla LLM çağrısını veya veri işleme adımını sıralı olarak uygular. Örneğin, önce bir soruyu yeniden ifade edip ardından modele iletmek.
-3- Aracılı Zincirler (Agentic Chains): Modelin, belirli araçları kullanarak görevleri yerine getirdiği zincirlerdir. Bu tür zincirlerde model, hangi aracı kullanacağına karar verir ve gerekli eylemleri gerçekleştirir.
+
+3- **Aracılı Zincirler (Agentic Chains)**: Modelin, belirli araçları kullanarak görevleri yerine getirdiği zincirlerdir. Bu tür zincirlerde model, hangi aracı kullanacağına karar verir ve gerekli eylemleri gerçekleştirir.
 
 
 ## Zincirlerin Kullanım Alanları
