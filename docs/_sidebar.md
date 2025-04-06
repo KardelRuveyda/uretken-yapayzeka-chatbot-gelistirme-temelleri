@@ -30,7 +30,7 @@
     * [Yapay Zekanın Riskleri](lessons/05_yapay_zekanin_gelisimi_tehlikemi.md#yapay-zekanın-riskleri)
     * [Yapay Zeka Regülasyonları ve Alınması Gereken Önlemler](lessons/05_yapay_zekanin_gelisimi_tehlikemi.md#yapay-zeka-regülasyonları-ve-alınması-gereken-önlemler)
 * AI/ML Temel Kavramları İnceleyelim!
-    * [Yapay Zekan Nedir?](lessons/06_ai_ml_temel_kavramlar.md#yapay-zeka-nedir)
+    * [Yapay Zeka Nedir?](lessons/06_ai_ml_temel_kavramlar.md#yapay-zeka-nedir)
     * [Makine Öğrenmesi (ML) Nedir?](lessons/06_ai_ml_temel_kavramlar.md#makine-öğrenmesi-ml-nedir)
     * [Fine-Tuning (İnce Ayar) Nedir?](lessons/06_ai_ml_temel_kavramlar.md#fine-tuning-i̇nce-ayar-nedir)
     * [Full Training (Tam Eğitim) Nedir?](lessons/06_ai_ml_temel_kavramlar.md#full-training-tam-eğitim-nedir)
