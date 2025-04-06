@@ -2,49 +2,74 @@
 # ChatOpenAI ile Temel LangChain RAG Kullanımı
 
 
-## 1. Gerekli Kurulumlar
+## 🔧 Gerekli Kurulumlar
 
 ```bash
-pip install langchain-openai python-dotenv
+pip install langchain
+pip install langchain-openai
+pip install python-dotenv
+```
+
+`.env` dosyasına aşağıdaki şekilde OpenAI API anahtarınızı ekleyin:
+
+```
+OPENAI_API_KEY=your-api-key
 ```
 
 ---
 
-## 2. OpenAI API Key Nasıl Alınır?
+## 🔍 Embedding: OpenAIEmbeddings Kullanımı
 
-1. https://platform.openai.com/signup adresinden bir hesap oluştur.
-2. Giriş yaptıktan sonra [API Keys](https://platform.openai.com/account/api-keys) sayfasına git.
-3. **Create new secret key** butonuna tıkla ve anahtarı `.env` dosyasına şöyle ekle:
+```python
+from langchain.embeddings import OpenAIEmbeddings
 
-```env
-OPENAI_API_KEY=sk-xxx...xxx
+embeddings = OpenAIEmbeddings(model="text-embedding-3-large")
 ```
+
+### Açıklama:
+
+- `OpenAIEmbeddings`: Metinleri sayısal vektörlere dönüştürmek için kullanılır.
+- `text-embedding-3-large`: OpenAI'nin en güncel embedding modellerinden biridir. Daha büyük bağlamlar için daha iyi semantik temsil sağlar.
+- Bu vektörler, metinlerin anlamını sayısal olarak temsil eder ve benzerlik karşılaştırmaları için kullanılır.
 
 ---
 
-## 3. ChatOpenAI Sınıfının Kullanımı
+## 🤖 Chat: GPT-4o Modeli ile Sohbet
 
 ```python
 from langchain_openai import ChatOpenAI
-from dotenv import load_dotenv
-import os
 
-load_dotenv()
-
-llm = ChatOpenAI(model="gpt-3.5-turbo", temperature=0.3)
+llm = ChatOpenAI(
+    model="gpt-4o",
+    temperature=0.3,
+    max_tokens=500
+)
 ```
 
-- `model="gpt-3.5-turbo"`: Kullanılan LLM modeli
-- `temperature=0.3`: Yanıtların tutarlılık düzeyi (0.0 → deterministik, 1.0 → yaratıcı)
+### Açıklama:
+
+- `ChatOpenAI`: LangChain arayüzü ile OpenAI'nin LLM'lerini kullanmak için yapılandırılmış sınıftır.
+- `gpt-4o`: OpenAI'nin en yeni ve gelişmiş çok modlu modelidir.
+- `temperature=0.3`: Cevapların daha kararlı ve tutarlı olması için düşük rastgelelik sağlar.
+- `max_tokens=500`: Maksimum yanıt uzunluğunu belirler.
 
 ---
 
-## 4. Sorgu Gönderme
+## 📌 Örnek Kullanım
 
 ```python
-response = llm.invoke("What is LangChain?")
-print(response.content)
+response = llm.invoke("LangChain nedir?")
+print(response)
 ```
+
+Bu komut, GPT-4o modelinden `LangChain` hakkında açıklayıcı bir cevap döndürmesini sağlar.
+
+---
+
+## 📎 Ek Bilgiler
+
+- LangChain hakkında daha fazla bilgi için: [https://docs.langchain.com](https://docs.langchain.com)
+- OpenAI API belgeleri: [https://platform.openai.com/docs](https://platform.openai.com/docs)
 
 ---
 
