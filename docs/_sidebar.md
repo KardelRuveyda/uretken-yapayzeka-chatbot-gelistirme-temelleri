@@ -29,9 +29,19 @@
     * [Yapay Zeka ve Etik: Kararların Sorumluluğu](lessons/05_yapay_zekanin_gelisimi_tehlikemi.md#yapay-zeka-ve-etik-kararların-sorumluluğu)
     * [Yapay Zekanın Riskleri](lessons/05_yapay_zekanin_gelisimi_tehlikemi.md#yapay-zekanın-riskleri)
     * [Yapay Zeka Regülasyonları ve Alınması Gereken Önlemler](lessons/05_yapay_zekanin_gelisimi_tehlikemi.md#yapay-zeka-regülasyonları-ve-alınması-gereken-önlemler)
-* Üretken Yapay Zeka'yı Daha İyi Anlamak
-   * [Teknik Altyapı ve Matematiksel Temeller](lessons/07_gen_ai_llm.md#teknik-altyapı-ve-matematiksel-temeller)
-   * [Transformer Mimarisi ve Öz-Dikkat Mekanizması](lessons/07_gen_ai_llm.md#transformer-mimarisi-ve-öz-dikkat-mekanizması)
-   * [Büyük Dil Modellerinin Evrimi](lessons/07_gen_ai_llm.md#büyük-dil-modellerinin-evrimi)
-   * [Uygulamalar ve Etkiler ](lessons/07_gen_ai_llm.md#uygulamalar-ve-etkiler)
-  
+* AI/ML Temel Kavramları İnceleyelim!
+    * [Yapay Zekan Nedir?](lessons/06_ai_ml_temel_kavramlar.md#yapay-zeka-nedir)
+    * [Makine Öğrenmesi (ML) Nedir?](lessons/06_ai_ml_temel_kavramlar.md#makine-öğrenmesi-ml-nedir)
+    * [Fine-Tuning (İnce Ayar) Nedir?](lessons/06_ai_ml_temel_kavramlar.md#fine-tuning-i̇nce-ayar-nedir)
+    * [Full Training (Tam Eğitim) Nedir?](lessons/06_ai_ml_temel_kavramlar.md#full-training-tam-eğitim-nedir)
+    * [Train/Test Split (Eğitim/Test Bölünmesi) Nedir?](lessons/06_ai_ml_temel_kavramlar.md#traintest-split-eğitimtest-bölünmesi-nedir)
+    * [Training Data (Eğitim Verisi) Nedir?](lessons/06_ai_ml_temel_kavramlar.md#training-data-eğitim-verisi-nedir)
+    * [Validation Data (Doğrulama Verisi) Nedir?](lessons/06_ai_ml_temel_kavramlar.md#validation-data-doğrulama-verisi-nedir)
+    * [Test Data (Test Verisi) Nedir?](lessons/06_ai_ml_temel_kavramlar.md#test-data-test-verisi-nedir)
+    * [Overfitting (Aşırı Uyum) Nedir?](lessons/06_ai_ml_temel_kavramlar.md#overfitting-aşırı-uyum-nedir)
+    * [Epoch (Dönem) Nedir?](lessons/06_ai_ml_temel_kavramlar.md#epoch-dönem-nedir)
+    * [Transfer Learning (Transfer Öğrenimi) Nedir?](lessons/06_ai_ml_temel_kavramlar.md#transfer-learning-transfer-öğrenimi-nedir)
+    * [Encoder Nedir?](lessons/06_ai_ml_temel_kavramlar.md#encoder-nedir)
+    * [Decoder Nedir?](lessons/06_ai_ml_temel_kavramlar.md#decoder-nedir)
+    * [GPT (Generative Pre-trained Transformer) Nedir?](lessons/06_ai_ml_temel_kavramlar.md#gpt-generative-pre-trained-transformer-nedir)
+
