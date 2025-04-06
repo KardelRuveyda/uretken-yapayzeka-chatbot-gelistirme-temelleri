@@ -48,5 +48,23 @@
    * [Prompt nedir?](lessons/07_prompt_engineering_temel_kavramlar.md#prompt-nedir)
    * [Prompt Engineering neden önemlidir?](lessons/07_prompt_engineering_temel_kavramlar.md#prompt-engineering-neden-önemlidir)
    * [Doğru ve Etkili Prompt Yazmanın Kuralları](lessons/07_prompt_engineering_temel_kavramlar.md#doğru-ve-etkili-prompt-yazmanın-kuralları)
+*  Generative AI Ve LLM Temel Kavramlar
+   *  [Teknik Altyapı ve Matematiksel Temeller](lessons/08_gen_ai_llm_temel_kavramlar.md#teknik-altyapı-ve-matematiksel-temeller)
+   *  [Transformer Mimarisi ve Öz-Dikkat Mekanizması](lessons/08_gen_ai_llm_temel_kavramlar.md#transformer-mimarisi-ve-öz-dikkat-mekanizması)
+   *  [Büyük Dil Modellerinin Evrimi](lessons/08_gen_ai_llm_temel_kavramlar.md#büyük-dil-modellerinin-evrimi)
+   *  [Uygulamalar ve Etkiler](lessons/08_gen_ai_llm_temel_kavramlar.md#uygulamalar-ve-etkiler)
+*  RAG LLM Temel Kavramlar
+   *  [RAG Nedir?](lessons/09_rag_temelkavramlar.md#rag-nedir)
+   *  [Neden Önemlidir?](lessons/09_rag_temelkavramlar.md#neden-önemlidir)
+   *  [Bilgi Getirme (Retrieval) Nedir?](lessons/09_rag_temelkavramlar.md#bilgi-getirme-retrieval-nedir)
+   *  [Metin Üretme (Generation) Süreci Nasıl İşler?](lessons/09_rag_temelkavramlar.md#metin-üretme-generation-süreci-nasıl-i̇şler)
+   *  [RAG’ın Klasik Üretken Modellere Göre Farkları](lessons/09_rag_temelkavramlar.md#ragın-klasik-üretken-modellere-göre-farkları)
+   *  [Transformer Modelleri](lessons/09_rag_temelkavramlar.md#transformer-modelleri)
+   *  [Embeddingler ve Vektör Veri Tabanları](lessons/09_rag_temelkavramlar.md#embeddingler-ve-vektör-veri-tabanları)
+   *  [Bilgi Getirme Mekanizmaları](lessons/09_rag_temelkavramlar.md#bilgi-getirme-mekanizmaları)
+   *  [RAG Mimarisi](lessons/09_rag_temelkavramlar.md#rag-mimarisi)
+   *  [Avantaj ve Zorluklar](lessons/09_rag_temelkavramlar.md#avantaj-ve-zorluklar)
+   *  [Vektör Veri Tabanı:ChromaDB](lessons/09_rag_temelkavramlar.md#vektör-veri-tabanı-chromadb)
+
 
 
