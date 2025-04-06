@@ -1,5 +1,3 @@
-# Python Giriş Ders Notları
-
 ## Python Kurulumu ve Giriş
 
 Python, yorumlamalı (interpreted), nesne yönelimli ve yüksek seviyeli bir programlama dilidir​. Okunabilirliği ön planda tutan basit bir sözdizimine sahip olup, güçlü standart kütüphaneleri sayesinde birçok platformda yaygın olarak kullanılmaktadır.Dinamik olarak tür denetimi (dynamic typing) yapar ve bu da geliştirme sürecini hızlandırır. Günümüzde web geliştirme, veri bilimi, yapay zeka, otomasyon gibi pek çok alanda Python tercih edilmektedir.
