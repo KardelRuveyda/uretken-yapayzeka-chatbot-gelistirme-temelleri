@@ -69,6 +69,15 @@
    *  [Chatbotlar neden hatalı cevaplar verir?](lessons/10_bot_neden_hatali_cevap_verir.md#chatbotlar-neden-hatalı-cevaplar-verir)
    *  [Teori 1 Gerçekleşme Süreci](lessons/10_bot_neden_hatali_cevap_verir.md#teori-1-klasik-makine-öğrenmesi-ml-ile-geliştirilmiş-bot)
    *  [Teori 2 LLM + RAG Kullanılmış Ancak Halüsinasyon Olmuş](lessons/10_bot_neden_hatali_cevap_verir.md#teori-2-llm--rag-kullanılmış-ancak-halüsinasyon-olmuş)
+*  Chatbot Geliştirme Yol Haritası
+   *  [Yol Haritası Adımları ve Zorluk Seviyeleri](lessons/11_chatbot_gelistirme_yol_harita.md#yol-haritası-adımları-ve-zorluk-seviyeleri)
+   *  [Yapay Zeka ve Makine Öğrenmesi Temel Kavramlar ⭐](lessons/11_chatbot_gelistirme_yol_harita.md#yapay-zeka-ve-makine-öğrenmesi-temel-kavramlar-)
+   *  [Teori 2 LLM + RAG Kullanılmış Ancak Halüsinasyon Olmuş](lessons/10_bot_neden_hatali_cevap_verir.md#teori-2-llm--rag-kullanılmış-ancak-halüsinasyon-olmuş)
+*  LangChain
+   *  [LangChain](lessons/12_langchain_ekosistem.md#langchain)
+   *  [LangChain Amaçları](lessons/12_langchain_ekosistem.md#langchain-amaçları)
+   *  [Teori 2 LLM + RAG Kullanılmış Ancak Halüsinasyon Olmuş](lessons/10_bot_neden_hatali_cevap_verir.md#teori-2-llm--rag-kullanılmış-ancak-halüsinasyon-olmuş)
+
 
 
 
