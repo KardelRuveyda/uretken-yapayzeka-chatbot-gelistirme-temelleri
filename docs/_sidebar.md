@@ -65,6 +65,12 @@
    *  [RAG Mimarisi](lessons/09_rag_temelkavramlar.md#rag-mimarisi)
    *  [Avantaj ve Zorluklar](lessons/09_rag_temelkavramlar.md#avantaj-ve-zorluklar)
    *  [Vektör Veri Tabanı:ChromaDB](lessons/09_rag_temelkavramlar.md#vektör-veri-tabanı-chromadb)
+*  Chatbotlar neden hatalı cevaplar verir?
+   *  [Teori 1 Klasik Makine Öğrenmesi (ML) ile Geliştirilmiş Bot](lessons/10_bot_neden_hatali_cevap_verir.md#teori-1-klasik-makine-öğrenmesi-ml-ile-geliştirilmiş-bot)
+   *  [Neden Önemlidir?](lessons/09_rag_temelkavramlar.md#neden-önemlidir)
+   *  [Teori 1 Gerçekleşme Süreci](lessons/10_bot_neden_hatali_cevap_verir.md#teori-1-gerçekleşme-süreci)
+   *  [Teori 2 LLM + RAG Kullanılmış Ancak Halüsinasyon Olmuş](lessons/10_bot_neden_hatali_cevap_verir.md#teori-2-llm--rag-kullanılmış-ancak-halüsinasyon-olmuş)
+
 
 
 
