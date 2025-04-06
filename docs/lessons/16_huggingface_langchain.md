@@ -82,6 +82,7 @@ Notebook dosyasına erişmek için:
 📂 [hugginface_basic_rag.ipynb](https://github.com/KardelRuveyda/uretken-yapayzeka-chatbot-gelistirme-temelleri/blob/master/examples/03_huggingface_chatbot/hugginface_basic_rag.ipynb)
 
 📖 Detaylı anlatım, kod blokları, ekran çıktıları ve görsel açıklamalar için lütfen orijinal makaleyi okuyun. Gemini ile aynı işlemleri yaptık sadece LLM değişti. O nedenle diğer aşamalar için tekrardan bu makaleyi inceleyebilirsiniz.
+
 👉 <a href="https://ruveydakardelcetin.medium.com/gemini-ve-langchain-kullanarak-rag-ile-chatbot-geli%C5%9Ftirme-c6b6b03ad854" target="_blank">Gemini ve LangChain Kullanarak RAG ile Chatbot Geliştirme</a>
 
 
