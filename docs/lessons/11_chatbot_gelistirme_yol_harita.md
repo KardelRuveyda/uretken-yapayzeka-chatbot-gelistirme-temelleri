@@ -1,5 +1,8 @@
 ## 🗺️ Yol Haritası Adımları ve Zorluk Seviyeleri
 
+Bu yol haritası, sıfırdan başlayarak üretken yapay zeka destekli bir chatbot geliştirmek isteyen herkes için rehber niteliğindedir. Her adım, projeyi oluşturan bileşenleri katmanlı olarak tanıtarak teknik bilgi seviyenizi aşamalı olarak artırmayı hedefler. Başlangıçta temel yapay zeka kavramlarıyla giriş yapılırken, ilerleyen adımlarda RAG mimarisi, vektör veritabanları, LLM seçimi, güvenlik gibi ileri düzey konulara geçilir. Her bölüm, zorluk seviyesine göre etiketlenmiştir ve öğrenme sürecinizi planlamanıza yardımcı olur. Amacımız sadece bir uygulama yapmak değil; aynı zamanda bu teknolojileri anlamak, sorgulamak ve doğru uygulamalarla değer üretmektir.
+
+
 ### 1️⃣ Yapay Zeka ve Makine Öğrenmesi Temel Kavramlar ⭐
 - Yapay zeka, makine öğrenmesi, denetimli/denetimsiz öğrenme, model nedir gibi temel bilgiler.
 
