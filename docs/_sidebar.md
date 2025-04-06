@@ -44,4 +44,9 @@
     * [Encoder Nedir?](lessons/06_ai_ml_temel_kavramlar.md#encoder-nedir)
     * [Decoder Nedir?](lessons/06_ai_ml_temel_kavramlar.md#decoder-nedir)
     * [GPT (Generative Pre-trained Transformer) Nedir?](lessons/06_ai_ml_temel_kavramlar.md#gpt-generative-pre-trained-transformer-nedir)
+* Prompt Engineering Temelleri
+   * [Prompt nedir?](lessons/07_prompt_engineering_temel_kavramlar.md#prompt-nedir)
+   * [Prompt Engineering neden önemlidir?](lessons/07_prompt_engineering_temel_kavramlar.md#prompt-engineering-neden-önemlidir)
+   * [Doğru ve Etkili Prompt Yazmanın Kuralları](lessons/07_prompt_engineering_temel_kavramlar.md#doğru-ve-etkili-prompt-yazmanın-kuralları)
+
 
