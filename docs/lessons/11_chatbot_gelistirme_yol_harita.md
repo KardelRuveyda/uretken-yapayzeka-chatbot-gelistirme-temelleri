@@ -1,7 +1,6 @@
 ## Yol Haritası Adımları ve Zorluk Seviyeleri
 
 Bu yol haritası, üretken yapay zeka destekli chatbot geliştirme sürecini adım adım ele alır. Her aşama, kavramsal bilgiden uygulamaya geçişte karşılaşabileceğiniz zorluk derecelerine göre sıralanmıştır. Başlangıç düzeyinden ileri seviyeye kadar yapılandırılmış bu rehber, hem teorik hem pratik bilgi sağlayarak sağlam bir öğrenme süreci sunmayı hedefler.
----
 
 ### Yapay Zeka ve Makine Öğrenmesi Temel Kavramlar ⭐
 
