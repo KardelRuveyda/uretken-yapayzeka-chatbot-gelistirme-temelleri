@@ -18,6 +18,20 @@ OPENAI_API_KEY=your-api-key
 
 ---
 
+## 📥 OpenAI API Key Nasıl Alınır?
+
+1. [https://platform.openai.com/signup](https://platform.openai.com/signup) adresine giderek ücretsiz bir hesap oluşturun veya mevcut hesabınızla giriş yapın.
+2. Giriş yaptıktan sonra [API Keys](https://platform.openai.com/account/api-keys) sayfasına gidin.
+3. “Create new secret key” butonuna tıklayın.
+4. Oluşturduğunuz API anahtarını kopyalayın.
+5. Proje dizininize bir `.env` dosyası oluşturun ve aşağıdaki gibi içine yapıştırın:
+
+```bash
+OPENAI_API_KEY=sk-...buraya-senin-keyin...
+```
+
+📌 `.env` dosyanızı `.gitignore` dosyasına eklemeyi unutmayın.
+
 ## 🔍 Embedding: OpenAIEmbeddings Kullanımı
 
 ```python
@@ -70,7 +84,7 @@ Bu komut, GPT-4o modelinden `LangChain` hakkında açıklayıcı bir cevap dönd
 
 - LangChain hakkında daha fazla bilgi için: [https://docs.langchain.com](https://docs.langchain.com)
 - OpenAI API belgeleri: [https://platform.openai.com/docs](https://platform.openai.com/docs)
-
+- ✨ Projeyi genişletmek için LangChain'in [retrieval chains](https://python.langchain.com/docs/modules/chains/popular/retrieval) modülünü ve vektör veri tabanlarını inceleyebilirsiniz.
 ---
 
 ## 🔗 Kaynak Notebook
