@@ -25,8 +25,6 @@ _“Üzülerek söylemeliyim ki Zorunlu Trafik Sigortası yurt dışında geçer
 **✅ İhtimal: Yüksek**
 * Çünkü klasik botlar genellikle bağlamı güçlü analiz edemez ve yüzeysel eşleşmeye göre cevap verir.
 
-### Teori 1 Gerçekleşme Süreci 
-
 ### 🧩 Intent Temelli Tasarım Nedir?
 
 Chatbot’un temelinde, kullanıcının niyetini anlamaya yönelik bir yapı kurulur. Bu yapılara “Intent” (Niyet) denir.
@@ -111,8 +109,6 @@ _**🧨 Sonuç: Sağlık sigortası sorulmasına rağmen “trafik sigortası”
 
 **❗️İhtimal: Düşük**
 * Çünkü LLM’ler genellikle bağlamı çok daha iyi anlar. Ancak doğru yapılandırılmaz veya yanlış veriyle desteklenirse bu tür hatalar yine de olabilir.
-
-### Teori 2 Gerçekleşme Süreci
 
 ### 🔢 Adım 1 - Veri Seti Hazırlığı (Text Verisi)
 
