@@ -144,12 +144,14 @@ _**🧨 Sonuç: Sağlık sigortası sorulmasına rağmen “trafik sigortası”
 4. LLM prompt + belge içeriklerine göre yanıt üretir.
 
 
-## 🚨 3. Hatalı Cevap Durumu: Ne Oldu?
+### 🚨 3. Hatalı Cevap Durumu: Ne Oldu?
 
-### ❓ Soru:
+**❓ Soru**:
+
 > “Sağlık poliçem kalça ultrasonunu kapsıyor mu?”
 
-### ❌ Yanıt:
+**❌ Yanıt:**
+
 > “Üzülerek söylemeliyim ki Zorunlu Trafik Sigortası yurt dışında geçerli değildir.”
 
 ### 📉 Neden Bu Yanıt Geldi?
