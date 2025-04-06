@@ -1,9 +1,9 @@
-
+## LangChain
 ​LangChain, büyük dil modelleri (LLM'ler) üzerine inşa edilen uygulamaların geliştirilmesini kolaylaştıran açık kaynaklı bir çerçevedir. Bu çerçeve, geliştiricilerin farklı bileşenleri bir araya getirerek karmaşık iş akışları oluşturmasına olanak tanır. Bu iş akışlarına "**chain**" (zincir) adı verilir ve her zincir, belirli bir görevi yerine getirmek için bir dizi adımı sıralı olarak uygular.
 
 ![image](https://github.com/user-attachments/assets/c065fe5f-281c-48c4-bf05-22127ceed909)
 
-## Langchain Amaçları
+## LangChain Amaçları
 
 * LLM'lerle etkileşimi kolaylaştırmak
 * Zincir (Chain) yapısıyla birden fazla adımı birleştirerek akıllı uygulamalar geliştirmek
