@@ -19,7 +19,7 @@
 * **Chains**: Tüm bu bileşenleri bir zincir yapısında birleştirir.
 * **Tools & Agents**: Web tarayıcı, hesap makinesi gibi dış sistemlerle çalışan ajanlar
 
-## LangChain Yan Platformları:
+## LangChain Yan Platformları
 
 * **LangGraph**: Karmaşık iş akışların döngüel grafikler olarak modellenmesini sağlar.
 * **LangSmith**: Uygulamaların test edilmesi, hata ayıklanması ve gözlemlenmesini sağlayan geliştirme ortamı.
