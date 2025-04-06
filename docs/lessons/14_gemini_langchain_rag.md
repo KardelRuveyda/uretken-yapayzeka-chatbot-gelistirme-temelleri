@@ -5,3 +5,7 @@
 
 🎬 Video anlatımı için:  
 👉 <a href="https://www.youtube.com/live/oWlaMUcOWYM?si=N5iuEmLDseY9g_yO" target="_blank">YouTube: Gemini ve LangChain ile RAG Uygulaması</a>
+
+**Demo:**  
+👉 <a href="https://github.com/KardelRuveyda/uretken-yapayzeka-chatbot-gelistirme-temelleri/tree/master/examples/01_gemini_chatbot" target="_blank">Kodlara bu linkten ulaşabilirsiniz.</a>
+
