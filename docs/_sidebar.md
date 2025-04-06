@@ -85,9 +85,14 @@
 *  LangChain
    *  [LangChain](lessons/12_langchain_ekosistem.md#langchain)
    *  [LangChain Amaçları](lessons/12_langchain_ekosistem.md#langchain-amaçları)
-   *  [Teori 2 LLM + RAG Kullanılmış Ancak Halüsinasyon Olmuş](lessons/10_bot_neden_hatali_cevap_verir.md#teori-2-llm--rag-kullanılmış-ancak-halüsinasyon-olmuş)
-
-
+   *  [LangChain Temel Bileşenleri](lessons/12_langchain_ekosistem.md#langchain-temel-bileşenleri)
+   *  [LangChain Yan Platformları](lessons/12_langchain_ekosistem.md#langchain-yan-platformları)
+   *  [LangChain'de Zincirlerin (Chains) Önemi](lessons/12_langchain_ekosistem.md#langchainde-zincirlerin-chains-önemi)
+   *  [LangChain Kullanım Alanları](lessons/12_langchain_ekosistem.md#langchain-kullanım-alanları)
+   *  [Zincir Türleri](lessons/12_langchain_ekosistem.md#zincir-türleri)
+   *  [Zincirlerin Kullanım Alanları](lessons/12_langchain_ekosistem.md#zincirlerin-kullanım-alanları)
+   *  [Pratik Örnek: Basit Bir Zincir Oluşturma](lessons/12_langchain_ekosistem.md#pratik-örnek-basit-bir-zincir-oluşturma)
+   
 
 
 
