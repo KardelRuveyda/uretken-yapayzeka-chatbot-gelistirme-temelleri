@@ -70,8 +70,11 @@ RAG mimarisi, bir getirici (retriever) modülü ile bir üretici (generator) mod
 ![image](https://github.com/user-attachments/assets/337d8fe9-eabc-420f-9e4e-52d9d1c334bf)
 
 **1)** Kullanıcı bir istek/prompt girişi yapar.
+
 **2)** Bu istek, Retrieval Model (Getirici model) tarafından alınıp kurumun dahili kaynakları gibi harici bilgi kaynaklarında arama yapmak üzere işlenir.
+
 **3)** Retrieval Model, yapılandırılmış veritabanlarından veya belge koleksiyonlarından ilgili olabilecek kayıtları sorgular ve bulduğu sonuçları kullanarak kullanıcının orijinal sorgusunu ek bağlamla zenginleştirir (yani sorguya uygun bağlamsal bilgilerle birleştirir).
+
 **4)** Ardından bu bağlamla zenginleştirilmiş prompt, Generation Model (LLM) olarak adlandırılan üretici modele iletilir. LLM, gelen ek bilgiyle desteklenmiş prompt’u işler ve kullanıcıya yönelik nihai yanıtı oluşturur​
 
 
