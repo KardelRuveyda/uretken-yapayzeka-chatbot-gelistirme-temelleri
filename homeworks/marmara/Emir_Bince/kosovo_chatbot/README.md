@@ -1,4 +1,4 @@
-# 🌍 Kosovo Chatbot
+# 🌍 Kosovo Chatbot 🇽🇰
 
 A conversational assistant powered by Google Gemini and a custom-trained intent classification model. It answers questions **only about the Republic of Kosovo**, greets users, says goodbye, and gracefully rejects unrelated queries.
 
