@@ -1,0 +1,1008 @@
+text,intent
+"Hello!",greeting
+"Hi there!",greeting
+"Hey!",greeting
+"Good morning!",greeting
+"Good afternoon!",greeting
+"Greetings!",greeting
+"Hey, how’s it going?",greeting
+"What’s up?",greeting
+"Nice to meet you!",greeting
+"Yo!",greeting
+"How are you?",greeting
+"How’s everything?",greeting
+"Salutations!",greeting
+"Hi bot!",greeting
+"Hey Kosovo bot!",greeting
+"Hello friend!",greeting
+"Good to see you!",greeting
+"Hi again!",greeting
+"Hey there!",greeting
+"Hope you’re doing well!",greeting
+"What can you do?",greeting
+"Yo chatbot!",greeting
+"Hello Kosovo!",greeting
+"Hi Kosovo expert!",greeting
+"Pleasure to chat!",greeting
+"Goodbye!",goodbye
+"See you later!",goodbye
+"Talk to you soon!",goodbye
+"Bye!",goodbye
+"Catch you later!",goodbye
+"Have a nice day!",goodbye
+"Take care!",goodbye
+"Peace out!",goodbye
+"Later!",goodbye
+"Until next time!",goodbye
+"See ya!",goodbye
+"I’m done here, goodbye!",goodbye
+"Thanks, bye!",goodbye
+"Goodnight!",goodbye
+"Gotta go!",goodbye
+"Bye for now!",goodbye
+"I’ll talk to you later!",goodbye
+"I’m signing off!",goodbye
+"This was helpful, thanks!",goodbye
+"I’m leaving now!",goodbye
+"Time to go!",goodbye
+"See you next time!",goodbye
+"That’s all, goodbye!",goodbye
+"Have a great day!",goodbye
+"I’m out!",goodbye
+"Leaving now!",goodbye
+"Where is Kosovo located?",kosovo_info
+"Tell me about the capital of Kosovo.",kosovo_info
+"What languages are spoken in Kosovo?",kosovo_info
+"What’s the population of Kosovo?",kosovo_info
+"Can you give me facts about Kosovo?",kosovo_info
+"Is Kosovo in the Balkans?",kosovo_info
+"What is the main religion in Kosovo?",kosovo_info
+"What currency does Kosovo use?",kosovo_info
+"Describe Kosovo’s geography.",kosovo_info
+"How many municipalities are in Kosovo?",kosovo_info
+"What’s Kosovo’s official name?",kosovo_info
+"Tell me about Kosovo’s flag.",kosovo_info
+"What countries border Kosovo?",kosovo_info
+"What is Kosovo known for?",kosovo_info
+"Who is Kosovo’s president?",kosovo_info
+"What’s the area size of Kosovo?",kosovo_info
+"Is Kosovo recognized by the UN?",kosovo_info
+"When did Kosovo declare independence?",kosovo_info
+"What is the ethnic makeup of Kosovo?",kosovo_info
+"Is Kosovo a member of the EU?",kosovo_info
+"Can you give me Kosovo statistics?",kosovo_info
+"Tell me about Pristina.",kosovo_info
+"Which river flows through Kosovo?",kosovo_info
+"What is the national anthem of Kosovo?",kosovo_info
+"How many people live in Pristina?",kosovo_info
+"What’s the GDP of Kosovo?",kosovo_info
+"What’s the weather like in Kosovo?",kosovo_info
+"What universities are in Kosovo?",kosovo_info
+"Are there mountains in Kosovo?",kosovo_info
+"Where is Prizren?",kosovo_info
+"Is Kosovo safe to visit?",kosovo_info
+"Do you believe in aliens?",out_of_scope
+"Who won the Super Bowl?",out_of_scope
+"What’s your favorite movie?",out_of_scope
+"Tell me a joke.",out_of_scope
+"Write me a poem about love.",out_of_scope
+"Translate this to French.",out_of_scope
+"What’s the capital of Brazil?",out_of_scope
+"Can you code in Python?",out_of_scope
+"How’s the stock market?",out_of_scope
+"Do you have emotions?",out_of_scope
+"Who is Elon Musk?",out_of_scope
+"What’s the weather in Tokyo?",out_of_scope
+"Can you make me a pizza?",out_of_scope
+"Tell me about AI models.",out_of_scope
+"What's happening in New York?",out_of_scope
+"Can you solve math problems?",out_of_scope
+"Book me a flight.",out_of_scope
+"Turn off the lights.",out_of_scope
+"What’s 2+2?",out_of_scope
+"Who’s Taylor Swift?",out_of_scope
+"Play music.",out_of_scope
+"Open my email.",out_of_scope
+"Tell me about Python programming.",out_of_scope
+"What is quantum physics?",out_of_scope
+"Who won the World Cup?",out_of_scope
+"Do you like cats?",out_of_scope
+"Hi buddy!",greeting
+"Hello again!",greeting
+"Sup?",greeting
+"Howdy!",greeting
+"Welcome!",greeting
+"Hello world!",greeting
+"Hey there chatbot!",greeting
+"Happy to see you!",greeting
+"What's going on?",greeting
+"How do you do?",greeting
+"Kosovo’s location?",kosovo_info
+"Capital city of Kosovo?",kosovo_info
+"Does Kosovo have a coastline?",kosovo_info
+"Any lakes in Kosovo?",kosovo_info
+"How old is Kosovo?",kosovo_info
+"Official language of Kosovo?",kosovo_info
+"Time zone of Kosovo?",kosovo_info
+"Major cities in Kosovo?",kosovo_info
+"Kosovo independence date?",kosovo_info
+"Kosovo's education system?",kosovo_info
+"Thank you, goodbye.",goodbye
+"Bye bye!",goodbye
+"I’m logging out.",goodbye
+"End of session, bye.",goodbye
+"Thanks for your help!",goodbye
+"I’ll be back.",goodbye
+"This was great, thanks!",goodbye
+"You’ve been helpful.",goodbye
+"Exiting now.",goodbye
+"Logging off.",goodbye
+"Tell me a bedtime story.",out_of_scope
+"What is ChatGPT?",out_of_scope
+"How do rockets work?",out_of_scope
+"Who is the CEO of OpenAI?",out_of_scope
+"Can you fix my code?",out_of_scope
+"Start a countdown.",out_of_scope
+"Make a quiz.",out_of_scope
+"Do you support any sports team?",out_of_scope
+"Set an alarm.",out_of_scope
+"Order groceries.",out_of_scope
+"Hey, are you there?",greeting
+"Hi Kosovo assistant!",greeting
+"Good evening!",greeting
+"Nice to see you!",greeting
+"Hello and welcome!",greeting
+"Hi, ready to chat?",greeting
+"What’s going on?",greeting
+"Hey hey!",greeting
+"Hey Kosovo expert!",greeting
+"Welcome back!",greeting
+"Good day!",greeting
+"Hello again my friend!",greeting
+"Hi chatbot!",greeting
+"Happy to chat!",greeting
+"Hey again!",greeting
+"Glad you're here!",greeting
+"Yo, Kosovo bot!",greeting
+"Hey, how’s your day?",greeting
+"Nice to meet you again!",greeting
+"What's new?",greeting
+"Later!",goodbye
+"I’m off now.",goodbye
+"See you soon!",goodbye
+"It’s been fun, goodbye!",goodbye
+"Catch you on the flip side!",goodbye
+"Bye Kosovo bot!",goodbye
+"Thanks for chatting!",goodbye
+"Leaving now, see you!",goodbye
+"It’s time to go!",goodbye
+"I’ll chat with you later!",goodbye
+"That’s all for today, bye!",goodbye
+"Appreciate the help, bye!",goodbye
+"Ciao!",goodbye
+"Time’s up, goodbye!",goodbye
+"Talk later!",goodbye
+"I'm logging off now.",goodbye
+"Adios!",goodbye
+"All done here, thanks!",goodbye
+"Kosovo's neighbors?",kosovo_info
+"How big is Kosovo?",kosovo_info
+"Kosovo’s main industries?",kosovo_info
+"Does Kosovo have an army?",kosovo_info
+"Describe Kosovo's government.",kosovo_info
+"What does the Kosovo flag look like?",kosovo_info
+"Can you summarize Kosovo’s history?",kosovo_info
+"Tell me about Kosovo’s independence.",kosovo_info
+"Which languages are official in Kosovo?",kosovo_info
+"Where is Prishtina?",kosovo_info
+"Are there any rivers in Kosovo?",kosovo_info
+"What continent is Kosovo on?",kosovo_info
+"Kosovo weather in winter?",kosovo_info
+"Does Kosovo use the Euro?",kosovo_info
+"What sports are popular in Kosovo?",kosovo_info
+"Tell me about the people of Kosovo.",kosovo_info
+"How does Kosovo celebrate holidays?",kosovo_info
+"Is Albanian spoken in Kosovo?",kosovo_info
+"What ethnic groups live in Kosovo?",kosovo_info
+"Are there universities in Pristina?",kosovo_info
+"What is Kosovo's political system?",kosovo_info
+"Is Kosovo landlocked?",kosovo_info
+"What natural resources does Kosovo have?",kosovo_info
+"Who governs Kosovo?",kosovo_info
+"Kosovo’s visa policy?",kosovo_info
+"How many people live in Kosovo?",kosovo_info
+"What's Kosovo's largest city?",kosovo_info
+"What are the main cities in Kosovo?",kosovo_info
+"What is the literacy rate in Kosovo?",kosovo_info
+"Are there any airports in Kosovo?",kosovo_info
+"Draw me a cat.",out_of_scope
+"Tell me about Elon Musk.",out_of_scope
+"Write a song for me.",out_of_scope
+"How many stars are in the sky?",out_of_scope
+"Generate a business plan.",out_of_scope
+"Can you cook?",out_of_scope
+"What is your name?",out_of_scope
+"Can you make a website?",out_of_scope
+"What’s your favorite food?",out_of_scope
+"Do you have dreams?",out_of_scope
+"What is OpenAI?",out_of_scope
+"Play a game.",out_of_scope
+"Can you sing?",out_of_scope
+"Explain string theory.",out_of_scope
+"Convert feet to meters.",out_of_scope
+"How’s the weather in Canada?",out_of_scope
+"Do you sleep?",out_of_scope
+"Launch a rocket.",out_of_scope
+"Create a schedule for me.",out_of_scope
+"Book a taxi.",out_of_scope
+"What is 5 times 12?",out_of_scope
+"Do aliens exist?",out_of_scope
+"Can you write code?",out_of_scope
+"Play Spotify.",out_of_scope
+"Set a timer for 10 minutes.",out_of_scope
+"Hello Kosovo AI!",greeting
+"Hey buddy!",greeting
+"Hi, let’s talk!",greeting
+"Let’s start.",greeting
+"Hey hello!",greeting
+"Yo, how are you?",greeting
+"Good to be here!",greeting
+"Hi Kosovo facts!",greeting
+"Hey chat friend!",greeting
+"Let’s begin.",greeting
+"I’m back!",greeting
+"Bye for now.",goodbye
+"Logging out now.",goodbye
+"It’s been nice, goodbye.",goodbye
+"Goodbye Kosovo!",goodbye
+"Chat later!",goodbye
+"Thanks for today!",goodbye
+"Exiting the chat.",goodbye
+"Goodbye my friend!",goodbye
+"So long!",goodbye
+"Thanks for your time!",goodbye
+"Bye friend!",goodbye
+"Signing off!",goodbye
+"See you tomorrow!",goodbye
+"Chat later Kosovo bot!",goodbye
+"I appreciate the info, bye!",goodbye
+"Where is Kosovo on the map?",kosovo_info
+"Does Kosovo have a coastline?",kosovo_info
+"What is Kosovo’s terrain like?",kosovo_info
+"Are there any national parks in Kosovo?",kosovo_info
+"How many official languages does Kosovo have?",kosovo_info
+"Is Kosovo in Europe?",kosovo_info
+"Tell me more about Kosovo.",kosovo_info
+"Does Kosovo have a president?",kosovo_info
+"Is Kosovo a democracy?",kosovo_info
+"How many people live in Prizren?",kosovo_info
+"What kind of climate does Kosovo have?",kosovo_info
+"Where does Kosovo rank in size?",kosovo_info
+"Is Kosovo a developed country?",kosovo_info
+"What’s the literacy rate?",kosovo_info
+"What is Kosovo’s time zone?",kosovo_info
+"Is Kosovo an independent country?",kosovo_info
+"Can you make a meme?",out_of_scope
+"Tell me about Spider-Man.",out_of_scope
+"Create a haiku.",out_of_scope
+"Open Google.",out_of_scope
+"Design a poster.",out_of_scope
+"How do planes fly?",out_of_scope
+"Can you dance?",out_of_scope
+"What's your favorite color?",out_of_scope
+"When is the next eclipse?",out_of_scope
+"Read me a bedtime story.",out_of_scope
+"Write a script for a movie.",out_of_scope
+"Create a mobile app.",out_of_scope
+"Hi there!",greeting
+"Heya!",greeting
+"Good morning Kosovo bot!",greeting
+"Hi again!",greeting
+"Nice chatting again!",greeting
+"Let’s continue our conversation!",greeting
+"Hi from Prishtina!",greeting
+"Yo!",greeting
+"Hello friend!",greeting
+"Hey bot!",greeting
+"Hi Kosovo!",greeting
+"How’s it going?",greeting
+"Welcome!",greeting
+"How are you doing today?",greeting
+"Morning!",greeting
+"Great to see you!",greeting
+"Evening!",greeting
+"Hi Kosovo guide!",greeting
+"Happy to be here!",greeting
+"Let’s talk!",greeting
+"Peace out!",goodbye
+"Time to leave.",goodbye
+"See ya!",goodbye
+"Bye bye!",goodbye
+"Goodbye now.",goodbye
+"Gotta go!",goodbye
+"Talk to you soon!",goodbye
+"I’ll be back later.",goodbye
+"Thank you, bye!",goodbye
+"Thanks for everything!",goodbye
+"Closing chat now.",goodbye
+"Bye Kosovo expert!",goodbye
+"Farewell!",goodbye
+"It was nice talking to you!",goodbye
+"Done for now.",goodbye
+"Catch you later!",goodbye
+"Does Kosovo have mountains?",kosovo_info
+"What’s the highest peak in Kosovo?",kosovo_info
+"Can you tell me about the geography of Kosovo?",kosovo_info
+"What countries border Kosovo?",kosovo_info
+"Is Kosovo part of the EU?",kosovo_info
+"What religion is common in Kosovo?",kosovo_info
+"Are there lakes in Kosovo?",kosovo_info
+"Tell me about Kosovo’s culture.",kosovo_info
+"How many municipalities are in Kosovo?",kosovo_info
+"What is Kosovo famous for?",kosovo_info
+"What are traditional foods in Kosovo?",kosovo_info
+"Are there UNESCO sites in Kosovo?",kosovo_info
+"Tell me about Kosovo’s economy.",kosovo_info
+"Does Kosovo produce energy?",kosovo_info
+"Is tourism big in Kosovo?",kosovo_info
+"Where is Gjakova?",kosovo_info
+"How do people get around in Kosovo?",kosovo_info
+"Is Kosovo safe to visit?",kosovo_info
+"What currency does Kosovo use?",kosovo_info
+"Do people in Kosovo speak Serbian?",kosovo_info
+"What is the main religion in Kosovo?",kosovo_info
+"Where can I learn Albanian in Kosovo?",kosovo_info
+"How cold does it get in Kosovo?",kosovo_info
+"When did Kosovo declare independence?",kosovo_info
+"Who recognized Kosovo as a country?",kosovo_info
+"What’s the education system like in Kosovo?",kosovo_info
+"What kind of music is popular in Kosovo?",kosovo_info
+"What sports teams are in Kosovo?",kosovo_info
+"Tell me about Kosovo's festivals.",kosovo_info
+"Do people ski in Kosovo?",kosovo_info
+"Can you build a spaceship?",out_of_scope
+"How do I fix a washing machine?",out_of_scope
+"What's trending on TikTok?",out_of_scope
+"Make me a logo.",out_of_scope
+"Give me stock tips.",out_of_scope
+"What’s the capital of Peru?",out_of_scope
+"Show me memes.",out_of_scope
+"Control my smart home.",out_of_scope
+"Draw a dog.",out_of_scope
+"Make a restaurant reservation.",out_of_scope
+"Write an essay on World War II.",out_of_scope
+"What’s Bitcoin?",out_of_scope
+"Tell me about black holes.",out_of_scope
+"Order me a pizza.",out_of_scope
+"Turn off the lights.",out_of_scope
+"Can you do my taxes?",out_of_scope
+"Remind me in 10 minutes.",out_of_scope
+"Stream Netflix.",out_of_scope
+"Show me movie times.",out_of_scope
+"Hi hi!",greeting
+"Hello Kosovo assistant!",greeting
+"What’s up Kosovo bot?",greeting
+"Let’s chat!",greeting
+"Hi, long time no see!",greeting
+"Back again!",greeting
+"Kosovo facts time!",greeting
+"Hey there!",greeting
+"Morning Kosovo expert!",greeting
+"Greetings!",greeting
+"Here to learn about Kosovo!",greeting
+"Hey, let’s go!",greeting
+"Good morning to you!",greeting
+"Hi friend!",greeting
+"What’s the latest?",greeting
+"It’s late, I’m out.",goodbye
+"See you later!",goodbye
+"Nice chat, bye!",goodbye
+"Heading out!",goodbye
+"Take care!",goodbye
+"Catch you next time!",goodbye
+"This was helpful, goodbye!",goodbye
+"Done chatting.",goodbye
+"Logging out!",goodbye
+"Hope to chat again soon!",goodbye
+"Thanks for the info!",goodbye
+"Thanks Kosovo bot!",goodbye
+"Goodbye kind assistant!",goodbye
+"Exiting now.",goodbye
+"See you Kosovo bot!",goodbye
+"Where can I go hiking in Kosovo?",kosovo_info
+"Does Kosovo have ski resorts?",kosovo_info
+"What’s the weather like in Pristina?",kosovo_info
+"Any famous landmarks in Kosovo?",kosovo_info
+"Does Kosovo celebrate Christmas?",kosovo_info
+"What is Kosovo's national dish?",kosovo_info
+"How is the healthcare in Kosovo?",kosovo_info
+"Tell me about Kosovo’s transportation.",kosovo_info
+"Do people use public transit in Kosovo?",kosovo_info
+"Any historic sites in Kosovo?",kosovo_info
+"What’s the electricity situation in Kosovo?",kosovo_info
+"What is Kosovo’s internet like?",kosovo_info
+"Are there castles in Kosovo?",kosovo_info
+"What are Kosovo’s natural resources?",kosovo_info
+"How does Kosovo handle waste?",kosovo_info
+"What kind of animals live in Kosovo?",kosovo_info
+"Do they speak English in Kosovo?",kosovo_info
+"What’s the GDP of Kosovo?",kosovo_info
+"Can you name Kosovo's rivers?",kosovo_info
+"List famous people from Kosovo.",kosovo_info
+"Can you make a 3D model?",out_of_scope
+"What's the best camera in 2024?",out_of_scope
+"What’s the stock price of Tesla?",out_of_scope
+"Tell me about Korean dramas.",out_of_scope
+"Control my thermostat.",out_of_scope
+"Do you like pizza?",out_of_scope
+"Write a Python script.",out_of_scope
+"Make a funny joke.",out_of_scope
+"Teach me Spanish.",out_of_scope
+"Tell me a scary story.",out_of_scope
+"Help me build a PC.",out_of_scope
+"How to do a backflip?",out_of_scope
+"What’s trending in tech?",out_of_scope
+"When is the next FIFA World Cup?",out_of_scope
+"Hello there!",greeting
+"Hey Kosovo chatbot!",greeting
+"Hi again, ready to learn!",greeting
+"Let’s get started!",greeting
+"Kosovo facts time!",greeting
+"Back for more!",greeting
+"Hey hey!",greeting
+"Good day!",greeting
+"Hi lovely assistant!",greeting
+"Ready to explore!",greeting
+"Hello my friend!",greeting
+"Happy to chat!",greeting
+"Hi Kosovo!",greeting
+"Good evening!",greeting
+"Hey let’s begin!",greeting
+"Here we go again!",greeting
+"Let's learn more!",greeting
+"Good vibes!",greeting
+"Nice to see you!",greeting
+"Hi helpful bot!",greeting
+"Talk to you later!",goodbye
+"Thanks, goodbye!",goodbye
+"That’s enough for today.",goodbye
+"Logging off!",goodbye
+"Time to go now!",goodbye
+"See you another time!",goodbye
+"Goodbye bot!",goodbye
+"End of chat.",goodbye
+"Take it easy!",goodbye
+"Bye bye Kosovo helper!",goodbye
+"Thanks a lot, see you!",goodbye
+"Appreciate it, bye!",goodbye
+"Good night!",goodbye
+"See you tomorrow!",goodbye
+"Where is Prizren?",kosovo_info
+"What’s the climate like in Kosovo?",kosovo_info
+"Can I visit monasteries in Kosovo?",kosovo_info
+"What languages are spoken in Kosovo?",kosovo_info
+"Is Kosovo recognized by the UN?",kosovo_info
+"How big is Kosovo?",kosovo_info
+"What is the population of Kosovo?",kosovo_info
+"Where is Mitrovica located?",kosovo_info
+"What’s the economy based on?",kosovo_info
+"What’s the education level in Kosovo?",kosovo_info
+"Is there an airport in Kosovo?",kosovo_info
+"How do people travel in Kosovo?",kosovo_info
+"Tell me about Kosovo’s railways.",kosovo_info
+"Any national parks in Kosovo?",kosovo_info
+"What kind of wildlife is found there?",kosovo_info
+"Are there waterfalls in Kosovo?",kosovo_info
+"What kind of forests are in Kosovo?",kosovo_info
+"Tell me about Kosovo’s rivers.",kosovo_info
+"Where is the White Drin Waterfall?",kosovo_info
+"What is Kosovo's official language?",kosovo_info
+"Can you list major cities in Kosovo?",kosovo_info
+"Does Kosovo have universities?",kosovo_info
+"What is Pristina known for?",kosovo_info
+"Where can I learn about Kosovo's history?",kosovo_info
+"Who governs Kosovo?",kosovo_info
+"Is Kosovo a democracy?",kosovo_info
+"Can you fly to Kosovo directly?",kosovo_info
+"Where is Peja?",kosovo_info
+"What is the currency exchange rate in Kosovo?",kosovo_info
+"Are there famous artists from Kosovo?",kosovo_info
+"What is Kosovo’s national anthem?",kosovo_info
+"Can you tell me about Kosovo's independence?",kosovo_info
+"Are there ethnic minorities in Kosovo?",kosovo_info
+"What is the role of NATO in Kosovo?",kosovo_info
+"How did the Kosovo War end?",kosovo_info
+"Is there a parliament in Kosovo?",kosovo_info
+"Can I travel safely to Kosovo?",kosovo_info
+"What is the nightlife like in Kosovo?",kosovo_info
+"Can Kosovo join the EU?",kosovo_info
+"What's the visa policy for Kosovo?",kosovo_info
+"Can you bake a cake?",out_of_scope
+"Show me cat videos.",out_of_scope
+"Order groceries.",out_of_scope
+"Tell me about Mars.",out_of_scope
+"What is Python programming?",out_of_scope
+"Write a novel.",out_of_scope
+"Convert euros to yen.",out_of_scope
+"Check my email.",out_of_scope
+"Make a website.",out_of_scope
+"Play some music.",out_of_scope
+"Show the weather in Tokyo.",out_of_scope
+"What's the score of the Lakers game?",out_of_scope
+"Buy movie tickets.",out_of_scope
+"Turn on my lights.",out_of_scope
+"Get me an Uber.",out_of_scope
+"Can you do math homework?",out_of_scope
+"Who won the Nobel Prize?",out_of_scope
+"Search for hotels in Berlin.",out_of_scope
+"Write me a poem.",out_of_scope
+"Build a robot.",out_of_scope
+"How far is the moon?",out_of_scope
+"What is a black hole?",out_of_scope
+"What's quantum physics?",out_of_scope
+"Tell me a joke.",out_of_scope
+"Recommend a book.",out_of_scope
+"Start my coffee maker.",out_of_scope
+"Tell me about Silicon Valley.",out_of_scope
+"What’s the best smartphone?",out_of_scope
+"Run diagnostics on my PC.",out_of_scope
+"Hey, I’m back!",greeting
+"Yo Kosovo bot!",greeting
+"Hello smart one!",greeting
+"Hi, ready for Kosovo facts!",greeting
+"Greetings my digital pal!",greeting
+"Let’s learn more about Kosovo!",greeting
+"Good to see you again!",greeting
+"Starting a new session!",greeting
+"Let’s dive in!",greeting
+"Hi knowledge machine!",greeting
+"I'm done now.",goodbye
+"Exiting, see ya!",goodbye
+"Goodbye for now!",goodbye
+"Thanks, that’s all.",goodbye
+"Okay, I’m done.",goodbye
+"You’ve been great, goodbye!",goodbye
+"That helped a lot, thanks!",goodbye
+"That’s all I needed.",goodbye
+"Appreciate the info!",goodbye
+"How many people live in Pristina?",kosovo_info
+"What’s the capital’s population?",kosovo_info
+"Tell me about the Kosovo-Albania relationship.",kosovo_info
+"How did Kosovo gain independence?",kosovo_info
+"What languages are taught in school?",kosovo_info
+"Can you study in English in Kosovo?",kosovo_info
+"What is Kosovo’s education like?",kosovo_info
+"Where do Kosovars study abroad?",kosovo_info
+"What’s the literacy rate in Kosovo?",kosovo_info
+"Can you invest in Kosovo?",kosovo_info
+"What industries are growing in Kosovo?",kosovo_info
+"Tell me about Kosovo’s tech sector.",kosovo_info
+"Is agriculture important in Kosovo?",kosovo_info
+"What are Kosovo’s exports?",kosovo_info
+"Are there tech hubs in Kosovo?",kosovo_info
+"How is the mobile network in Kosovo?",kosovo_info
+"Can you drive from Kosovo to Albania?",kosovo_info
+"Are roads well maintained?",kosovo_info
+"Is there Uber in Kosovo?",kosovo_info
+"Hi there again!",greeting
+"Back so soon!",greeting
+"Hey helper!",greeting
+"Good afternoon!",greeting
+"Nice to talk to you!",greeting
+"Let’s continue!",greeting
+"Yo!",greeting
+"Wassup bot!",greeting
+"Howdy!",greeting
+"Salutations!",greeting
+"Hello from me!",greeting
+"Hey from Pristina!",greeting
+"Hi from abroad!",greeting
+"Starting fresh!",greeting
+"Greetings assistant!",greeting
+"Hey machine!",greeting
+"We meet again!",greeting
+"Bot buddy!",greeting
+"Hello you!",greeting
+"Let’s go!",greeting
+"Catch you later!",goodbye
+"Goodbye chatbot!",goodbye
+"Till next time!",goodbye
+"Talk again soon!",goodbye
+"That’s it for me!",goodbye
+"Signing off!",goodbye
+"Leaving now, bye!",goodbye
+"Thank you, goodbye!",goodbye
+"We’ll chat later!",goodbye
+"End of line.",goodbye
+"Closing this session.",goodbye
+"That’s a wrap!",goodbye
+"Heading out!",goodbye
+"What’s the currency in Kosovo?",kosovo_info
+"Is Kosovo safe for tourists?",kosovo_info
+"What religions are practiced?",kosovo_info
+"Where is the Rugova Canyon?",kosovo_info
+"Tell me about Gjakova.",kosovo_info
+"What’s the ethnic composition?",kosovo_info
+"Any UNESCO sites in Kosovo?",kosovo_info
+"What sports are popular?",kosovo_info
+"What’s the education system like?",kosovo_info
+"Does Kosovo have a president?",kosovo_info
+"How does the government work?",kosovo_info
+"What type of economy is there?",kosovo_info
+"Are there any lakes in Kosovo?",kosovo_info
+"Tell me about Gazivoda Lake.",kosovo_info
+"Can you ski in Kosovo?",kosovo_info
+"Where is Brezovica?",kosovo_info
+"How’s the weather in winter?",kosovo_info
+"Does it snow often?",kosovo_info
+"What’s Kosovo’s flag?",kosovo_info
+"Is Kosovo landlocked?",kosovo_info
+"Where does Kosovo export to?",kosovo_info
+"What does Kosovo import?",kosovo_info
+"Who are Kosovo’s neighbors?",kosovo_info
+"What is the legal system like?",kosovo_info
+"Does Kosovo have natural gas?",kosovo_info
+"Where is the Drenica region?",kosovo_info
+"Tell me about Ferizaj.",kosovo_info
+"Where is Gjilan?",kosovo_info
+"What happened in 2008?",kosovo_info
+"How many municipalities are there?",kosovo_info
+"Does Kosovo have a coastline?",kosovo_info
+"Is there a national airline?",kosovo_info
+"How do people get healthcare?",kosovo_info
+"Are there private hospitals?",kosovo_info
+"Can you tell me about Kosovo's healthcare?",kosovo_info
+"Are there tech companies in Kosovo?",kosovo_info
+"Where are Kosovo’s embassies?",kosovo_info
+"What countries recognize Kosovo?",kosovo_info
+"Does Kosovo have a military?",kosovo_info
+"Can I invest in Kosovo real estate?",kosovo_info
+"How to do business in Kosovo?",kosovo_info
+"Where to register a company?",kosovo_info
+"Can I start a business?",kosovo_info
+"What’s the cost of living?",kosovo_info
+"Are there movie theaters?",kosovo_info
+"Tell me about Kosovo’s film industry.",kosovo_info
+"Are there music festivals?",kosovo_info
+"Where do Kosovars travel?",kosovo_info
+"Can you show me cat memes?",out_of_scope
+"What’s Bitcoin’s value?",out_of_scope
+"Send a text for me.",out_of_scope
+"Start a timer.",out_of_scope
+"Navigate to the nearest cafe.",out_of_scope
+"Order food.",out_of_scope
+"Control my smart home.",out_of_scope
+"Find me a dentist.",out_of_scope
+"What’s trending on Twitter?",out_of_scope
+"Recommend Netflix shows.",out_of_scope
+"How to fix my car?",out_of_scope
+"Tell me about Napoleon.",out_of_scope
+"What is dark matter?",out_of_scope
+"Book me a table.",out_of_scope
+"Set an alarm.",out_of_scope
+"Remind me in 30 mins.",out_of_scope
+"Open Instagram.",out_of_scope
+"Schedule a meeting.",out_of_scope
+"Give me today’s horoscope.",out_of_scope
+"Tell me about Jupiter.",out_of_scope
+"Print my document.",out_of_scope
+"Get weather for New York.",out_of_scope
+"Turn on my TV.",out_of_scope
+"What’s the stock price?",out_of_scope
+"Can you wash dishes?",out_of_scope
+"Play jazz music.",out_of_scope
+"Draw a sketch.",out_of_scope
+"Fly a drone.",out_of_scope
+"Program a robot.",out_of_scope
+"Hack a game.",out_of_scope
+"Hi, again!",greeting
+"Another round!",greeting
+"Here I am!",greeting
+"Sup bot?",greeting
+"What’s up machine?",greeting
+"Hey Kosovo AI!",greeting
+"Hi Kosovo expert!",greeting
+"Kosovo Q&A time!",greeting
+"You ready?",greeting
+"Let’s roll!",greeting
+"Gotta run!",goodbye
+"Laters!",goodbye
+"Time to sign off!",goodbye
+"It was fun!",goodbye
+"Thanks for the answers!",goodbye
+"Great session, bye!",goodbye
+"See you around!",goodbye
+"Catch you later bot!",goodbye
+"That’s enough Kosovo info!",goodbye
+"Take care!",goodbye
+"Is Prizren worth visiting?",kosovo_info
+"Where are the mountains?",kosovo_info
+"Does Kosovo have ski resorts?",kosovo_info
+"What rivers run through Kosovo?",kosovo_info
+"Tell me about the Bjeshkët e Nemuna.",kosovo_info
+"What is Dukagjini?",kosovo_info
+"Are there caves in Kosovo?",kosovo_info
+"What dialect is spoken in Kosovo?",kosovo_info
+"Does Kosovo have a constitution?",kosovo_info
+"How does Kosovo elect leaders?",kosovo_info
+"Any famous poets from Kosovo?",kosovo_info
+"Tell me about Ibrahim Rugova.",kosovo_info
+"What is Kosovo's music style?",kosovo_info
+"What TV channels are popular?",kosovo_info
+"Are there podcasts from Kosovo?",kosovo_info
+"How do kids in Kosovo spend their time?",kosovo_info
+"Can you get Kosovo news online?",kosovo_info
+"What mobile apps are popular?",kosovo_info
+"What’s the tech scene in Pristina?",kosovo_info
+"Can I freelance from Kosovo?",kosovo_info
+"Hello once more!",greeting
+"Hey there again!",greeting
+"Back at it!",greeting
+"Good to see you!",greeting
+"Morning again!",greeting
+"Ready for more?",greeting
+"Hi hi!",greeting
+"Hey from Kosovo!",greeting
+"Greetings again!",greeting
+"Let’s continue chatting!",greeting
+"Bye for now!",goodbye
+"See you soon!",goodbye
+"Goodbye for now!",goodbye
+"Catch you on the flip side!",goodbye
+"Farewell friend!",goodbye
+"Ending our chat!",goodbye
+"Goodnight!",goodbye
+"I’m off now!",goodbye
+"Talk later!",goodbye
+"Thanks and bye!",goodbye
+"What languages are spoken in Kosovo?",kosovo_info
+"Is Albanian the official language?",kosovo_info
+"Tell me about the Kosovo Liberation Army.",kosovo_info
+"What’s the role of the EU in Kosovo?",kosovo_info
+"How is Kosovo’s media landscape?",kosovo_info
+"What’s the GDP of Kosovo?",kosovo_info
+"How do Kosovars celebrate holidays?",kosovo_info
+"What’s the traditional cuisine?",kosovo_info
+"Tell me about flija.",kosovo_info
+"Are there national parks?",kosovo_info
+"What animals live in Kosovo?",kosovo_info
+"Where is the Sharr Mountains?",kosovo_info
+"How old is Kosovo?",kosovo_info
+"Who are the main ethnic groups?",kosovo_info
+"Is Kosovo recognized by the UN?",kosovo_info
+"What is the Kosovo Assembly?",kosovo_info
+"Where is Mitrovica?",kosovo_info
+"What’s the population of Kosovo?",kosovo_info
+"What currency is used?",kosovo_info
+"Does Kosovo use the Euro?",kosovo_info
+"What are common names in Kosovo?",kosovo_info
+"What is the literacy rate?",kosovo_info
+"How is Kosovo connected to Europe?",kosovo_info
+"Is Kosovo part of NATO?",kosovo_info
+"What are Kosovo’s main exports?",kosovo_info
+"Are there famous artists from Kosovo?",kosovo_info
+"What’s the education level?",kosovo_info
+"What’s the time zone?",kosovo_info
+"Are there public holidays?",kosovo_info
+"What sports teams are there?",kosovo_info
+"Can I visit Kosovo as a tourist?",kosovo_info
+"What’s the capital city?",kosovo_info
+"Tell me about Kosovo’s history.",kosovo_info
+"What’s the climate like?",kosovo_info
+"Is Kosovo mountainous?",kosovo_info
+"Does Kosovo have a coast?",kosovo_info
+"What languages do they teach in schools?",kosovo_info
+"Are there universities?",kosovo_info
+"Who is the president?",kosovo_info
+"Who is the prime minister?",kosovo_info
+"What religions exist?",kosovo_info
+"What about Kosovo’s culture?",kosovo_info
+"How is the public transport?",kosovo_info
+"Are there international airports?",kosovo_info
+"What are some famous landmarks?",kosovo_info
+"Tell me about the Newborn monument.",kosovo_info
+"What’s the literacy rate?",kosovo_info
+"Is Kosovo recognized internationally?",kosovo_info
+"Can you tell me about Kosovo’s politics?",kosovo_info
+"What’s the population density?",kosovo_info
+"Is Kosovo in Europe?",kosovo_info
+"What borders Kosovo?",kosovo_info
+"Are there any UNESCO World Heritage Sites?",kosovo_info
+"Who are Kosovo’s allies?",kosovo_info
+"Can you speak Albanian?",out_of_scope
+"Tell me a joke.",out_of_scope
+"Play a song.",out_of_scope
+"Set a reminder.",out_of_scope
+"How’s the weather in Tokyo?",out_of_scope
+"Order pizza.",out_of_scope
+"Book a flight.",out_of_scope
+"Find a hotel.",out_of_scope
+"What’s the latest news?",out_of_scope
+"Calculate 2 plus 2.",out_of_scope
+"Tell me about AI.",out_of_scope
+"Translate this.",out_of_scope
+"Can you dance?",out_of_scope
+"Make me coffee.",out_of_scope
+"What’s your name?",out_of_scope
+"Where am I?",out_of_scope
+"Open my email.",out_of_scope
+"Turn off the lights.",out_of_scope
+"Who won the game?",out_of_scope
+"Play chess.",out_of_scope
+"Read a book.",out_of_scope
+"Write an essay.",out_of_scope
+"Create a poem.",out_of_scope
+"Tell me a story.",out_of_scope
+"Say hello in French.",out_of_scope
+"How’s the stock market?",out_of_scope
+"Do you know Elon Musk?",out_of_scope
+"What’s the meaning of life?",out_of_scope
+"Who invented the internet?",out_of_scope
+"Explain quantum physics.",out_of_scope
+"What’s the weather forecast?",out_of_scope
+"Is it raining?",out_of_scope
+"Turn up the volume.",out_of_scope
+"Call mom.",out_of_scope
+"Send a message.",out_of_scope
+"How do I bake a cake?",out_of_scope
+"Where is the nearest gas station?",out_of_scope
+"What time is it?",out_of_scope
+"Hi, can you help?",greeting
+"Thanks for your help",goodbye
+"Bye bye!",goodbye
+"Can you tell me about Kosovo’s culture?",kosovo_info
+"What is Kosovo’s national flower?",kosovo_info
+"How do people celebrate New Year?",kosovo_info
+"Is Kosovo mountainous?",kosovo_info
+"What is the official emblem?",kosovo_info
+"Where can I find traditional crafts?",kosovo_info
+"Can you tell me about Kosovo’s economy?",kosovo_info
+"What languages are official?",kosovo_info
+"Who is Kosovo’s ambassador to the UN?",kosovo_info
+"How is Kosovo’s judiciary?",kosovo_info
+"Is Kosovo a parliamentary republic?",kosovo_info
+"What’s the population?",kosovo_info
+"Are there famous festivals?",kosovo_info
+"Tell me about Kosovo’s cuisine.",kosovo_info
+"Where is the Peja region?",kosovo_info
+"Who are Kosovo’s neighbors?",kosovo_info
+"What’s the average income?",kosovo_info
+"Can you speak Serbian?",out_of_scope
+"How do I change my password?",out_of_scope
+"Turn on Bluetooth.",out_of_scope
+"Play classical music.",out_of_scope
+"Tell me a riddle.",out_of_scope
+"Light a candle.",out_of_scope
+"What is the square root of 64?",out_of_scope
+"Hey again!",greeting
+"Good to chat with you!",greeting
+"Hi, how are you?",greeting
+"Nice to see you!",greeting
+"What’s up?",greeting
+"Hello there!",greeting
+"Good day!",greeting
+"Hope you’re well!",greeting
+"Welcome back!",greeting
+"Let’s get started!",greeting
+"Bye for now!",goodbye
+"See you next time!",goodbye
+"Take care!",goodbye
+"Have a nice day!",goodbye
+"Until next time!",goodbye
+"Farewell!",goodbye
+"Goodbye and take care!",goodbye
+"Catch you later!",goodbye
+"Thanks and goodbye!",goodbye
+"Talk to you soon!",goodbye
+"Where is Kosovo located?",kosovo_info
+"Is Kosovo in Europe?",kosovo_info
+"What countries border Kosovo?",kosovo_info
+"What is Kosovo’s capital?",kosovo_info
+"Tell me about Kosovo’s geography.",kosovo_info
+"What languages are spoken in Kosovo?",kosovo_info
+"What currency does Kosovo use?",kosovo_info
+"What is Kosovo’s population?",kosovo_info
+"Who is the president of Kosovo?",kosovo_info
+"Tell me about Kosovo’s history.",kosovo_info
+"What religions are practiced in Kosovo?",kosovo_info
+"What are some popular dishes in Kosovo?",kosovo_info
+"What festivals are celebrated in Kosovo?",kosovo_info
+"Is Kosovo a member of the UN?",kosovo_info
+"Can you tell me about Kosovo’s government?",kosovo_info
+"What is the Kosovo Assembly?",kosovo_info
+"What is Kosovo’s climate like?",kosovo_info
+"Are there mountains in Kosovo?",kosovo_info
+"What is the Kosovo Liberation Army?",kosovo_info
+"What languages are official in Kosovo?",kosovo_info
+"Does Kosovo have a coastline?",kosovo_info
+"What sports are popular in Kosovo?",kosovo_info
+"Can you tell me about Kosovo’s culture?",kosovo_info
+"What is Kosovo’s national emblem?",kosovo_info
+"Are there any UNESCO sites in Kosovo?",kosovo_info
+"What is Kosovo’s GDP?",kosovo_info
+"Where is Prizren?",kosovo_info
+"What is the literacy rate in Kosovo?",kosovo_info
+"Who are Kosovo’s neighbors?",kosovo_info
+"Can you speak Albanian?",out_of_scope
+"Play some music.",out_of_scope
+"Tell me a joke.",out_of_scope
+"Order food.",out_of_scope
+"Book a hotel.",out_of_scope
+"What’s the weather in New York?",out_of_scope
+"Find a taxi.",out_of_scope
+"Send an email.",out_of_scope
+"Calculate 5 times 6.",out_of_scope
+"Tell me about AI technology.",out_of_scope
+"Who won the game last night?",out_of_scope
+"Open my calendar.",out_of_scope
+"Turn on the lights.",out_of_scope
+"Write a poem.",out_of_scope
+"Tell me a story.",out_of_scope
+"What’s the time?",out_of_scope
+"How do I bake bread?",out_of_scope
+"Can you do math?",out_of_scope
+"Who is Elon Musk?",out_of_scope
+"Explain relativity.",out_of_scope
+"Set an alarm.",out_of_scope
+"Where is the nearest gas station?",out_of_scope
+"Can you dance?",out_of_scope
+"Turn up the volume.",out_of_scope
+"Call a friend.",out_of_scope
+"Hi, can you assist?",greeting
+"Thanks for your help!",goodbye
+"Bye now!",goodbye
+"Can you tell me about Kosovo’s traditions?",kosovo_info
+"What is Kosovo’s national flower?",kosovo_info
+"What holidays do Kosovars celebrate?",kosovo_info
+"Is Kosovo mountainous?",kosovo_info
+"What is the Kosovo flag like?",kosovo_info
+"Where can I find Kosovo crafts?",kosovo_info
+"Can you tell me about Kosovo’s economy?",kosovo_info
+"Who is Kosovo’s prime minister?",kosovo_info
+"How is Kosovo’s education system?",kosovo_info
+"What is Kosovo’s main religion?",kosovo_info
+"Are there famous Kosovo musicians?",kosovo_info
+"What is the capital of Kosovo?",kosovo_info
+"Where is Kosovo?",kosovo_info
+"What languages do people speak in Kosovo?",kosovo_info
+"What are some famous places in Kosovo?",kosovo_info
+"Tell me about Kosovo’s population.",kosovo_info
+"What is Kosovo’s government type?",kosovo_info
+"Who are Kosovo’s neighbors?",kosovo_info
+"What is Kosovo’s climate?",kosovo_info
+"Can you help me?",greeting
+"Bye!",goodbye
+"Thanks!",goodbye
+"Tell me a joke!",out_of_scope
+"Play music!",out_of_scope
+"Open email!",out_of_scope
+"Hello, how can I assist you today?",greeting
+"Good morning, how are you?",greeting
+"Hey, nice to meet you!",greeting
+"Can you tell me about Kosovo’s landmarks?",kosovo_info
+"What’s the capital city of Kosovo?",kosovo_info
+"Is Kosovo part of the European Union?",kosovo_info
+"Tell me about Kosovo’s independence.",kosovo_info
+"What is the main language in Kosovo?",kosovo_info
+"What traditional foods come from Kosovo?",kosovo_info
+"Are there any national parks in Kosovo?",kosovo_info
+"Who founded Kosovo?",kosovo_info
+"What currency is used in Kosovo?",kosovo_info
+"Can you tell me about Kosovo’s sports?",kosovo_info
+"Do you know about Kosovo’s festivals?",kosovo_info
+"Where is Kosovo located geographically?",kosovo_info
+"I want to book a flight.",out_of_scope
+"Can you order a pizza?",out_of_scope
+"Play some jazz music.",out_of_scope
+"Tell me a funny joke.",out_of_scope
+"Schedule a meeting.",out_of_scope
+"Set a reminder for tomorrow.",out_of_scope
+"What’s the weather like in Paris?",out_of_scope
+"How do I fix my computer?",out_of_scope
+"What movies are playing?",out_of_scope
+"Turn on the TV.",out_of_scope
+"What’s the score of the game?",out_of_scope
+"Write an email for me.",out_of_scope
+"Can you translate this?",out_of_scope
+"Open my calendar.",out_of_scope
+"Call my mom.",out_of_scope
