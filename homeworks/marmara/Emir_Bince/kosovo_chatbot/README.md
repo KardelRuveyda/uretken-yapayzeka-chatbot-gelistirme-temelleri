@@ -6,18 +6,12 @@ A conversational assistant powered by Google Gemini and a custom-trained intent 
 
 ## 🚀 Setup Instructions
 
-1. **Clone this repository**
-   ```bash
-   git clone https://github.com/your-username/kosovo-chatbot.git
-   cd kosovo-chatbot
-   ```
-
-2. **Create a virtual environment**
+1. **Create a virtual environment**
    ```bash
    python -m venv venv
    ```
 
-3. **Activate the virtual environment**
+2. **Activate the virtual environment**
    - On Windows:
      ```bash
      venv\Scripts\activate
@@ -27,28 +21,28 @@ A conversational assistant powered by Google Gemini and a custom-trained intent 
      source venv/bin/activate
      ```
 
-4. **Install dependencies**
+3. **Install dependencies**
    ```bash
    pip install -r requirements.txt
    ```
 
-5. **Set your Gemini API key**
+4. **Set your Gemini API key**
    Create a `.env` file in the project root and add:
    ```
    GEMINI_API_KEY=[YOUR_API_KEY_HERE]
    ```
 
-6. **Train the intent classifier**
+5. **Train the intent classifier**
    ```bash
    python models/train_intent_classifier.py
    ```
 
-7. *(Optional)* Evaluate the classifier
+6. *(Optional)* Evaluate the classifier
    ```bash
    python models/classifier_stats.py
    ```
 
-8. **Run the chatbot**
+7. **Run the chatbot**
    ```bash
    streamlit run app/streamlist_app.py
    ```
