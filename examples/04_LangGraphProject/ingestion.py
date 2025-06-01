@@ -1,32 +1,30 @@
-from chromadb.api.types import convert_list_embeddings_to_np
-from dotenv import load_dotenv
-from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain_community.document_loaders import WebBaseLoader
+import json
+from langchain_core.documents import Document
 from langchain_community.vectorstores import Chroma
 from langchain_openai import OpenAIEmbeddings
+from dotenv import load_dotenv
 
 load_dotenv()
+path = r"C:\Users\ruveyda.cetin\OneDrive - Doğuş Holding A.Ş\Desktop\Sektör Kampüste\LangGraphProject\data\dream_data.json"
 
-urls = ["https://lilianweng.github.io/posts/2023-06-23-agent/",
-       "https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/",
-       "https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/"]
+with open(path, "r", encoding="utf-8") as file:
+    dream_data = json.load(file)
 
-docs = [WebBaseLoader(url).load() for url in urls]
-docs_list= [item for sublist in docs for item in sublist]
+documents = [
+    Document(
+        page_content=dream["page_content"],
+        metadata=dream["metadata"]
+    )
+    for dream in dream_data["dreams"]
+]
 
-text_splitter = RecursiveCharacterTextSplitter.from_tiktoken_encoder(chunk_size=250,chunk_overlap=0)
-
-splits = text_splitter.split_documents(docs_list)
-
+# Vektör veritabanına ekle
 vectorstore = Chroma.from_documents(
-    documents = splits,
-    collection_name = "rag-chroma",
-    embedding = OpenAIEmbeddings(),
-    persist_directory="./.chroma"
+    documents=documents,
+    collection_name="dream-chroma",
+    embedding=OpenAIEmbeddings(),
+    persist_directory="./.chroma_dreams"
 )
 
-retriever = Chroma(
-    collection_name="rag-chroma",
-    persist_directory="./.chroma",
-    embedding_function=OpenAIEmbeddings()
-).as_retriever()
+# Retriever
+retriever = vectorstore.as_retriever()

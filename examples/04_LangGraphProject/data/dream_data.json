@@ -1,0 +1,904 @@
+{
+  "dreams": [
+    {
+      "page_content": "Rüyamda sahne ile ilgili bir durum yaşadım. Nesciunt ipsum doloribus repellat quasi.",
+      "metadata": {
+        "theme": "yetersizlik",
+        "symbol": "sahne",
+        "emotion": "kaygı",
+        "interpretation": "Kendinize olan güveninizi sorguladığınız bir dönemi yansıtır."
+      }
+    },
+    {
+      "page_content": "Rüyamda sınav ile ilgili bir durum yaşadım. Repudiandae earum ut numquam iste nulla.",
+      "metadata": {
+        "theme": "kaygı",
+        "symbol": "sınav",
+        "emotion": "huzur",
+        "interpretation": "Geçmişle yüzleşme ve affetme ihtiyacını simgeler."
+      }
+    },
+    {
+      "page_content": "Rüyamda bebek ile ilgili bir durum yaşadım. Error culpa dolorem ipsam possimus.",
+      "metadata": {
+        "theme": "barış",
+        "symbol": "bebek",
+        "emotion": "coşku",
+        "interpretation": "İfade edilmemiş duyguların ortaya çıkışı anlamına gelir."
+      }
+    },
+    {
+      "page_content": "Rüyamda ayna ile ilgili bir durum yaşadım. Iste officia odit nemo.",
+      "metadata": {
+        "theme": "rehberlik",
+        "symbol": "ayna",
+        "emotion": "huzur",
+        "interpretation": "Zihinsel yorgunluğunuzun ve baskıların bir sembolüdür."
+      }
+    },
+    {
+      "page_content": "Rüyamda sınav ile ilgili bir durum yaşadım. Fugiat dicta dolorem sapiente at voluptatem occaecati rerum.",
+      "metadata": {
+        "theme": "içsel keşif",
+        "symbol": "sınav",
+        "emotion": "dinginlik",
+        "interpretation": "Kendinize olan güveninizi sorguladığınız bir dönemi yansıtır."
+      }
+    },
+    {
+      "page_content": "Rüyamda kalabalık ile ilgili bir durum yaşadım. Sequi eaque aut amet ex quis placeat.",
+      "metadata": {
+        "theme": "kararsızlık",
+        "symbol": "kalabalık",
+        "emotion": "mutluluk",
+        "interpretation": "Yakın gelecekte bir karar vermeniz gerekebilir."
+      }
+    },
+    {
+      "page_content": "Rüyamda yılan ile ilgili bir durum yaşadım. Voluptatum beatae facere accusamus culpa cumque.",
+      "metadata": {
+        "theme": "özgürlük",
+        "symbol": "yılan",
+        "emotion": "nostalji",
+        "interpretation": "İfade edilmemiş duyguların ortaya çıkışı anlamına gelir."
+      }
+    },
+    {
+      "page_content": "Rüyamda araba kazası ile ilgili bir durum yaşadım. Sit praesentium repellat sed assumenda.",
+      "metadata": {
+        "theme": "kimlik",
+        "symbol": "araba kazası",
+        "emotion": "endişe",
+        "interpretation": "Geçmişle yüzleşme ve affetme ihtiyacını simgeler."
+      }
+    },
+    {
+      "page_content": "Rüyamda okyanus ile ilgili bir durum yaşadım. Voluptates veritatis laboriosam suscipit molestiae impedit veniam.",
+      "metadata": {
+        "theme": "geçmiş",
+        "symbol": "okyanus",
+        "emotion": "mutluluk",
+        "interpretation": "Yeni bir başlangıç yapmak için fırsatlara açıksınız."
+      }
+    },
+    {
+      "page_content": "Rüyamda kapı ile ilgili bir durum yaşadım. Quibusdam nulla quae magni.",
+      "metadata": {
+        "theme": "mutluluk",
+        "symbol": "kapı",
+        "emotion": "dinginlik",
+        "interpretation": "Hayatınızdaki kaosun sona ereceğine işaret eder."
+      }
+    },
+    {
+      "page_content": "Rüyamda kalabalık ile ilgili bir durum yaşadım. Nulla labore perspiciatis accusantium perspiciatis.",
+      "metadata": {
+        "theme": "değişim",
+        "symbol": "kalabalık",
+        "emotion": "dinginlik",
+        "interpretation": "Geçmişle yüzleşme ve affetme ihtiyacını simgeler."
+      }
+    },
+    {
+      "page_content": "Rüyamda yılan ile ilgili bir durum yaşadım. Laborum qui reiciendis culpa aperiam voluptatibus.",
+      "metadata": {
+        "theme": "kimlik",
+        "symbol": "yılan",
+        "emotion": "heyecan",
+        "interpretation": "Yeni bir başlangıç yapmak için fırsatlara açıksınız."
+      }
+    },
+    {
+      "page_content": "Rüyamda mezarlık ile ilgili bir durum yaşadım. Nemo doloremque veritatis nulla neque nihil accusamus.",
+      "metadata": {
+        "theme": "yorgunluk",
+        "symbol": "mezarlık",
+        "emotion": "heyecan",
+        "interpretation": "Yakın gelecekte bir karar vermeniz gerekebilir."
+      }
+    },
+    {
+      "page_content": "Rüyamda kapı ile ilgili bir durum yaşadım. Tempore provident quas delectus asperiores.",
+      "metadata": {
+        "theme": "içsel keşif",
+        "symbol": "kapı",
+        "emotion": "gerilim",
+        "interpretation": "Hayatınızdaki kaosun sona ereceğine işaret eder."
+      }
+    },
+    {
+      "page_content": "Rüyamda deniz ile ilgili bir durum yaşadım. Sit accusantium unde perferendis.",
+      "metadata": {
+        "theme": "rehberlik",
+        "symbol": "deniz",
+        "emotion": "heyecan",
+        "interpretation": "Yakın gelecekte bir karar vermeniz gerekebilir."
+      }
+    },
+    {
+      "page_content": "Rüyamda sınav ile ilgili bir durum yaşadım. Laboriosam eos nihil assumenda ducimus similique perferendis.",
+      "metadata": {
+        "theme": "geçmiş",
+        "symbol": "sınav",
+        "emotion": "huzur",
+        "interpretation": "Kendinize olan güveninizi sorguladığınız bir dönemi yansıtır."
+      }
+    },
+    {
+      "page_content": "Rüyamda dağ ile ilgili bir durum yaşadım. Nostrum ipsam magnam quibusdam corporis numquam.",
+      "metadata": {
+        "theme": "yorgunluk",
+        "symbol": "dağ",
+        "emotion": "gerilim",
+        "interpretation": "Toplumsal rollerle kişisel kimlik arasında çatışma yaşanıyor olabilir."
+      }
+    },
+    {
+      "page_content": "Rüyamda okyanus ile ilgili bir durum yaşadım. Iure repellendus dicta impedit aspernatur hic numquam.",
+      "metadata": {
+        "theme": "rehberlik",
+        "symbol": "okyanus",
+        "emotion": "dinginlik",
+        "interpretation": "İçsel bir dönüşüm sürecinde olduğunuzu gösterir."
+      }
+    },
+    {
+      "page_content": "Rüyamda kapı ile ilgili bir durum yaşadım. Quasi cumque minus.",
+      "metadata": {
+        "theme": "kaçış",
+        "symbol": "kapı",
+        "emotion": "utanç",
+        "interpretation": "Yakın gelecekte bir karar vermeniz gerekebilir."
+      }
+    },
+    {
+      "page_content": "Rüyamda mezarlık ile ilgili bir durum yaşadım. Dolorem quod soluta sapiente minima.",
+      "metadata": {
+        "theme": "kaçış",
+        "symbol": "mezarlık",
+        "emotion": "huzur",
+        "interpretation": "Yeni bir başlangıç yapmak için fırsatlara açıksınız."
+      }
+    },
+    {
+      "page_content": "Rüyamda ormanda kaybolmak ile ilgili bir durum yaşadım. Incidunt modi ipsa assumenda quod eligendi.",
+      "metadata": {
+        "theme": "korku",
+        "symbol": "ormanda kaybolmak",
+        "emotion": "heyecan",
+        "interpretation": "Kendinize olan güveninizi sorguladığınız bir dönemi yansıtır."
+      }
+    },
+    {
+      "page_content": "Rüyamda uçurum ile ilgili bir durum yaşadım. Doloribus dolores laborum quae ipsa.",
+      "metadata": {
+        "theme": "kontrol kaybı",
+        "symbol": "uçurum",
+        "emotion": "gerilim",
+        "interpretation": "İçsel bir dönüşüm sürecinde olduğunuzu gösterir."
+      }
+    },
+    {
+      "page_content": "Rüyamda gemi ile ilgili bir durum yaşadım. Corporis quas minima maiores nulla optio.",
+      "metadata": {
+        "theme": "içsel keşif",
+        "symbol": "gemi",
+        "emotion": "öfke",
+        "interpretation": "Yeni bir başlangıç yapmak için fırsatlara açıksınız."
+      }
+    },
+    {
+      "page_content": "Rüyamda bebek ile ilgili bir durum yaşadım. Veniam pariatur itaque hic est incidunt.",
+      "metadata": {
+        "theme": "değişim",
+        "symbol": "bebek",
+        "emotion": "kaygı",
+        "interpretation": "Hayatınızdaki kaosun sona ereceğine işaret eder."
+      }
+    },
+    {
+      "page_content": "Rüyamda okyanus ile ilgili bir durum yaşadım. Velit sit earum.",
+      "metadata": {
+        "theme": "kimlik",
+        "symbol": "okyanus",
+        "emotion": "mutluluk",
+        "interpretation": "Yakın gelecekte bir karar vermeniz gerekebilir."
+      }
+    },
+    {
+      "page_content": "Rüyamda ormanda kaybolmak ile ilgili bir durum yaşadım. Suscipit nisi quibusdam odit eos quos.",
+      "metadata": {
+        "theme": "rehberlik",
+        "symbol": "ormanda kaybolmak",
+        "emotion": "utanç",
+        "interpretation": "Zihinsel yorgunluğunuzun ve baskıların bir sembolüdür."
+      }
+    },
+    {
+      "page_content": "Rüyamda sınav ile ilgili bir durum yaşadım. Ipsam praesentium corporis architecto.",
+      "metadata": {
+        "theme": "sosyal baskı",
+        "symbol": "sınav",
+        "emotion": "nostalji",
+        "interpretation": "Zihinsel yorgunluğunuzun ve baskıların bir sembolüdür."
+      }
+    },
+    {
+      "page_content": "Rüyamda bebek ile ilgili bir durum yaşadım. Nisi delectus quisquam ut.",
+      "metadata": {
+        "theme": "içsel keşif",
+        "symbol": "bebek",
+        "emotion": "dinginlik",
+        "interpretation": "Kontrolü kaybetme korkusunun bir yansımasıdır."
+      }
+    },
+    {
+      "page_content": "Rüyamda deniz ile ilgili bir durum yaşadım. Nostrum rerum explicabo perferendis ipsam.",
+      "metadata": {
+        "theme": "başarı",
+        "symbol": "deniz",
+        "emotion": "coşku",
+        "interpretation": "İfade edilmemiş duyguların ortaya çıkışı anlamına gelir."
+      }
+    },
+    {
+      "page_content": "Rüyamda sınav ile ilgili bir durum yaşadım. Dolore harum soluta doloremque consectetur.",
+      "metadata": {
+        "theme": "geçmiş",
+        "symbol": "sınav",
+        "emotion": "utanç",
+        "interpretation": "Toplumsal rollerle kişisel kimlik arasında çatışma yaşanıyor olabilir."
+      }
+    },
+    {
+      "page_content": "Rüyamda araba kazası ile ilgili bir durum yaşadım. Nesciunt maiores ullam.",
+      "metadata": {
+        "theme": "içsel keşif",
+        "symbol": "araba kazası",
+        "emotion": "coşku",
+        "interpretation": "Yeni bir başlangıç yapmak için fırsatlara açıksınız."
+      }
+    },
+    {
+      "page_content": "Rüyamda kalabalık ile ilgili bir durum yaşadım. Alias neque itaque eveniet autem facilis.",
+      "metadata": {
+        "theme": "barış",
+        "symbol": "kalabalık",
+        "emotion": "gerilim",
+        "interpretation": "İfade edilmemiş duyguların ortaya çıkışı anlamına gelir."
+      }
+    },
+    {
+      "page_content": "Rüyamda diş ile ilgili bir durum yaşadım. Incidunt minus aspernatur ipsum aperiam veritatis aliquam.",
+      "metadata": {
+        "theme": "içsel keşif",
+        "symbol": "diş",
+        "emotion": "heyecan",
+        "interpretation": "Toplumsal rollerle kişisel kimlik arasında çatışma yaşanıyor olabilir."
+      }
+    },
+    {
+      "page_content": "Rüyamda kapı ile ilgili bir durum yaşadım. Quidem molestiae facilis temporibus error quibusdam veritatis deleniti.",
+      "metadata": {
+        "theme": "kaçış",
+        "symbol": "kapı",
+        "emotion": "huzur",
+        "interpretation": "Zihinsel yorgunluğunuzun ve baskıların bir sembolüdür."
+      }
+    },
+    {
+      "page_content": "Rüyamda deniz ile ilgili bir durum yaşadım. Iusto voluptatum non itaque iste perspiciatis asperiores.",
+      "metadata": {
+        "theme": "değişim",
+        "symbol": "deniz",
+        "emotion": "utanç",
+        "interpretation": "Hayatınızdaki kaosun sona ereceğine işaret eder."
+      }
+    },
+    {
+      "page_content": "Rüyamda dağ ile ilgili bir durum yaşadım. Eveniet eveniet ipsa molestias corporis.",
+      "metadata": {
+        "theme": "yeni başlangıç",
+        "symbol": "dağ",
+        "emotion": "dinginlik",
+        "interpretation": "Zihinsel yorgunluğunuzun ve baskıların bir sembolüdür."
+      }
+    },
+    {
+      "page_content": "Rüyamda eski arkadaş ile ilgili bir durum yaşadım. Tenetur nihil fuga quia.",
+      "metadata": {
+        "theme": "yorgunluk",
+        "symbol": "eski arkadaş",
+        "emotion": "yorgunluk",
+        "interpretation": "Kendinize olan güveninizi sorguladığınız bir dönemi yansıtır."
+      }
+    },
+    {
+      "page_content": "Rüyamda yılan ile ilgili bir durum yaşadım. Tempora autem incidunt exercitationem.",
+      "metadata": {
+        "theme": "kaçış",
+        "symbol": "yılan",
+        "emotion": "yorgunluk",
+        "interpretation": "Yeni bir başlangıç yapmak için fırsatlara açıksınız."
+      }
+    },
+    {
+      "page_content": "Rüyamda uçurum ile ilgili bir durum yaşadım. Accusantium modi reprehenderit aliquam ullam quidem explicabo aspernatur.",
+      "metadata": {
+        "theme": "sosyal baskı",
+        "symbol": "uçurum",
+        "emotion": "endişe",
+        "interpretation": "Zihinsel yorgunluğunuzun ve baskıların bir sembolüdür."
+      }
+    },
+    {
+      "page_content": "Rüyamda dağ ile ilgili bir durum yaşadım. Minus sapiente deleniti incidunt.",
+      "metadata": {
+        "theme": "kaygı",
+        "symbol": "dağ",
+        "emotion": "nostalji",
+        "interpretation": "Yeni bir başlangıç yapmak için fırsatlara açıksınız."
+      }
+    },
+    {
+      "page_content": "Rüyamda yangın ile ilgili bir durum yaşadım. Necessitatibus nisi soluta doloremque.",
+      "metadata": {
+        "theme": "başarı",
+        "symbol": "yangın",
+        "emotion": "utanç",
+        "interpretation": "Kontrolü kaybetme korkusunun bir yansımasıdır."
+      }
+    },
+    {
+      "page_content": "Rüyamda sınav ile ilgili bir durum yaşadım. Corrupti dicta perferendis recusandae.",
+      "metadata": {
+        "theme": "değişim",
+        "symbol": "sınav",
+        "emotion": "endişe",
+        "interpretation": "Hayatınızdaki kaosun sona ereceğine işaret eder."
+      }
+    },
+    {
+      "page_content": "Rüyamda uçmak ile ilgili bir durum yaşadım. Animi distinctio neque tenetur.",
+      "metadata": {
+        "theme": "değişim",
+        "symbol": "uçmak",
+        "emotion": "yorgunluk",
+        "interpretation": "Yeni bir başlangıç yapmak için fırsatlara açıksınız."
+      }
+    },
+    {
+      "page_content": "Rüyamda yangın ile ilgili bir durum yaşadım. Reprehenderit autem quaerat ullam.",
+      "metadata": {
+        "theme": "kaygı",
+        "symbol": "yangın",
+        "emotion": "utanç",
+        "interpretation": "Yeni bir başlangıç yapmak için fırsatlara açıksınız."
+      }
+    },
+    {
+      "page_content": "Rüyamda bebek ile ilgili bir durum yaşadım. Quasi impedit maxime saepe est odio animi.",
+      "metadata": {
+        "theme": "başarı",
+        "symbol": "bebek",
+        "emotion": "öfke",
+        "interpretation": "Zihinsel yorgunluğunuzun ve baskıların bir sembolüdür."
+      }
+    },
+    {
+      "page_content": "Rüyamda dağ ile ilgili bir durum yaşadım. Laborum molestiae architecto assumenda.",
+      "metadata": {
+        "theme": "mutluluk",
+        "symbol": "dağ",
+        "emotion": "utanç",
+        "interpretation": "Zihinsel yorgunluğunuzun ve baskıların bir sembolüdür."
+      }
+    },
+    {
+      "page_content": "Rüyamda eski arkadaş ile ilgili bir durum yaşadım. In cumque temporibus facilis.",
+      "metadata": {
+        "theme": "başarı",
+        "symbol": "eski arkadaş",
+        "emotion": "endişe",
+        "interpretation": "Kontrolü kaybetme korkusunun bir yansımasıdır."
+      }
+    },
+    {
+      "page_content": "Rüyamda uçurum ile ilgili bir durum yaşadım. Officia necessitatibus quasi ullam.",
+      "metadata": {
+        "theme": "geçmiş",
+        "symbol": "uçurum",
+        "emotion": "öfke",
+        "interpretation": "Yeni bir başlangıç yapmak için fırsatlara açıksınız."
+      }
+    },
+    {
+      "page_content": "Rüyamda geyik ile ilgili bir durum yaşadım. Facere necessitatibus eligendi beatae quaerat voluptates deleniti.",
+      "metadata": {
+        "theme": "yalnızlık",
+        "symbol": "geyik",
+        "emotion": "gerilim",
+        "interpretation": "Hayatınızdaki kaosun sona ereceğine işaret eder."
+      }
+    },
+    {
+      "page_content": "Rüyamda sahne ile ilgili bir durum yaşadım. Quos magni possimus at architecto alias eos.",
+      "metadata": {
+        "theme": "kararsızlık",
+        "symbol": "sahne",
+        "emotion": "heyecan",
+        "interpretation": "Yeni bir başlangıç yapmak için fırsatlara açıksınız."
+      }
+    },
+    {
+      "page_content": "Rüyamda yılan ile ilgili bir durum yaşadım. Temporibus laudantium suscipit veritatis commodi.",
+      "metadata": {
+        "theme": "kontrol kaybı",
+        "symbol": "yılan",
+        "emotion": "mutluluk",
+        "interpretation": "Hayatınızdaki kaosun sona ereceğine işaret eder."
+      }
+    },
+    {
+      "page_content": "Rüyamda mezarlık ile ilgili bir durum yaşadım. Voluptas quisquam unde nihil.",
+      "metadata": {
+        "theme": "içsel keşif",
+        "symbol": "mezarlık",
+        "emotion": "utanç",
+        "interpretation": "Zihinsel yorgunluğunuzun ve baskıların bir sembolüdür."
+      }
+    },
+    {
+      "page_content": "Rüyamda uçmak ile ilgili bir durum yaşadım. Rerum labore architecto officiis voluptatibus reprehenderit.",
+      "metadata": {
+        "theme": "yetersizlik",
+        "symbol": "uçmak",
+        "emotion": "şaşkınlık",
+        "interpretation": "Geçmişle yüzleşme ve affetme ihtiyacını simgeler."
+      }
+    },
+    {
+      "page_content": "Rüyamda kalabalık ile ilgili bir durum yaşadım. Libero voluptate nam tempore rerum magnam voluptate ipsa.",
+      "metadata": {
+        "theme": "kaos",
+        "symbol": "kalabalık",
+        "emotion": "huzur",
+        "interpretation": "Geçmişle yüzleşme ve affetme ihtiyacını simgeler."
+      }
+    },
+    {
+      "page_content": "Rüyamda kalabalık ile ilgili bir durum yaşadım. Laudantium illo at.",
+      "metadata": {
+        "theme": "korku",
+        "symbol": "kalabalık",
+        "emotion": "heyecan",
+        "interpretation": "Geçmişle yüzleşme ve affetme ihtiyacını simgeler."
+      }
+    },
+    {
+      "page_content": "Rüyamda kapı ile ilgili bir durum yaşadım. Placeat accusantium ipsum sapiente doloribus tempora excepturi a.",
+      "metadata": {
+        "theme": "yalnızlık",
+        "symbol": "kapı",
+        "emotion": "nostalji",
+        "interpretation": "Hayatınızdaki kaosun sona ereceğine işaret eder."
+      }
+    },
+    {
+      "page_content": "Rüyamda sahne ile ilgili bir durum yaşadım. Perspiciatis laboriosam qui error.",
+      "metadata": {
+        "theme": "özgürlük",
+        "symbol": "sahne",
+        "emotion": "yorgunluk",
+        "interpretation": "Hayatınızdaki kaosun sona ereceğine işaret eder."
+      }
+    },
+    {
+      "page_content": "Rüyamda deniz ile ilgili bir durum yaşadım. Vitae repellendus incidunt aperiam.",
+      "metadata": {
+        "theme": "yalnızlık",
+        "symbol": "deniz",
+        "emotion": "gerilim",
+        "interpretation": "Yeni bir başlangıç yapmak için fırsatlara açıksınız."
+      }
+    },
+    {
+      "page_content": "Rüyamda sahne ile ilgili bir durum yaşadım. Veniam optio cum sed.",
+      "metadata": {
+        "theme": "kontrol kaybı",
+        "symbol": "sahne",
+        "emotion": "mutluluk",
+        "interpretation": "Yeni bir başlangıç yapmak için fırsatlara açıksınız."
+      }
+    },
+    {
+      "page_content": "Rüyamda ormanda kaybolmak ile ilgili bir durum yaşadım. Necessitatibus sunt ex id quis.",
+      "metadata": {
+        "theme": "kaçış",
+        "symbol": "ormanda kaybolmak",
+        "emotion": "gerilim",
+        "interpretation": "Geçmişle yüzleşme ve affetme ihtiyacını simgeler."
+      }
+    },
+    {
+      "page_content": "Rüyamda uçurum ile ilgili bir durum yaşadım. Quia quas beatae optio illum vero officia.",
+      "metadata": {
+        "theme": "kaçış",
+        "symbol": "uçurum",
+        "emotion": "huzur",
+        "interpretation": "Yeni bir başlangıç yapmak için fırsatlara açıksınız."
+      }
+    },
+    {
+      "page_content": "Rüyamda kapı ile ilgili bir durum yaşadım. Non cupiditate laboriosam beatae tenetur explicabo aperiam ipsa.",
+      "metadata": {
+        "theme": "kaos",
+        "symbol": "kapı",
+        "emotion": "endişe",
+        "interpretation": "Zihinsel yorgunluğunuzun ve baskıların bir sembolüdür."
+      }
+    },
+    {
+      "page_content": "Rüyamda gemi ile ilgili bir durum yaşadım. Tempora dolorem soluta sint.",
+      "metadata": {
+        "theme": "değişim",
+        "symbol": "gemi",
+        "emotion": "yorgunluk",
+        "interpretation": "Geçmişle yüzleşme ve affetme ihtiyacını simgeler."
+      }
+    },
+    {
+      "page_content": "Rüyamda kapı ile ilgili bir durum yaşadım. Placeat esse velit reiciendis iste.",
+      "metadata": {
+        "theme": "değişim",
+        "symbol": "kapı",
+        "emotion": "gerilim",
+        "interpretation": "Yeni bir başlangıç yapmak için fırsatlara açıksınız."
+      }
+    },
+    {
+      "page_content": "Rüyamda okyanus ile ilgili bir durum yaşadım. Sed ducimus adipisci.",
+      "metadata": {
+        "theme": "yorgunluk",
+        "symbol": "okyanus",
+        "emotion": "yorgunluk",
+        "interpretation": "Zihinsel yorgunluğunuzun ve baskıların bir sembolüdür."
+      }
+    },
+    {
+      "page_content": "Rüyamda okyanus ile ilgili bir durum yaşadım. Ex nostrum doloremque repellat provident quibusdam tempora.",
+      "metadata": {
+        "theme": "kaygı",
+        "symbol": "okyanus",
+        "emotion": "endişe",
+        "interpretation": "İfade edilmemiş duyguların ortaya çıkışı anlamına gelir."
+      }
+    },
+    {
+      "page_content": "Rüyamda deniz ile ilgili bir durum yaşadım. Tenetur rerum et enim officiis.",
+      "metadata": {
+        "theme": "kaos",
+        "symbol": "deniz",
+        "emotion": "nostalji",
+        "interpretation": "İçsel bir dönüşüm sürecinde olduğunuzu gösterir."
+      }
+    },
+    {
+      "page_content": "Rüyamda gemi ile ilgili bir durum yaşadım. Cumque in sit voluptates in doloribus.",
+      "metadata": {
+        "theme": "sosyal baskı",
+        "symbol": "gemi",
+        "emotion": "nostalji",
+        "interpretation": "Toplumsal rollerle kişisel kimlik arasında çatışma yaşanıyor olabilir."
+      }
+    },
+    {
+      "page_content": "Rüyamda bebek ile ilgili bir durum yaşadım. Animi adipisci ratione recusandae a placeat.",
+      "metadata": {
+        "theme": "geçmiş",
+        "symbol": "bebek",
+        "emotion": "özlem",
+        "interpretation": "Yakın gelecekte bir karar vermeniz gerekebilir."
+      }
+    },
+    {
+      "page_content": "Rüyamda dağ ile ilgili bir durum yaşadım. Sequi laudantium corrupti fugit sapiente quo.",
+      "metadata": {
+        "theme": "içsel keşif",
+        "symbol": "dağ",
+        "emotion": "endişe",
+        "interpretation": "Hayatınızdaki kaosun sona ereceğine işaret eder."
+      }
+    },
+    {
+      "page_content": "Rüyamda kalabalık ile ilgili bir durum yaşadım. Dolores maxime impedit labore.",
+      "metadata": {
+        "theme": "barış",
+        "symbol": "kalabalık",
+        "emotion": "özlem",
+        "interpretation": "Geçmişle yüzleşme ve affetme ihtiyacını simgeler."
+      }
+    },
+    {
+      "page_content": "Rüyamda eski arkadaş ile ilgili bir durum yaşadım. Modi voluptas officiis cupiditate.",
+      "metadata": {
+        "theme": "yeni başlangıç",
+        "symbol": "eski arkadaş",
+        "emotion": "heyecan",
+        "interpretation": "İfade edilmemiş duyguların ortaya çıkışı anlamına gelir."
+      }
+    },
+    {
+      "page_content": "Rüyamda diş ile ilgili bir durum yaşadım. Nisi sit repellat distinctio sunt debitis.",
+      "metadata": {
+        "theme": "kaos",
+        "symbol": "diş",
+        "emotion": "endişe",
+        "interpretation": "İçsel bir dönüşüm sürecinde olduğunuzu gösterir."
+      }
+    },
+    {
+      "page_content": "Rüyamda ayna ile ilgili bir durum yaşadım. Aspernatur earum nobis mollitia.",
+      "metadata": {
+        "theme": "yorgunluk",
+        "symbol": "ayna",
+        "emotion": "utanç",
+        "interpretation": "Kontrolü kaybetme korkusunun bir yansımasıdır."
+      }
+    },
+    {
+      "page_content": "Rüyamda yılan ile ilgili bir durum yaşadım. Facere distinctio rerum mollitia veritatis a cumque vitae.",
+      "metadata": {
+        "theme": "barış",
+        "symbol": "yılan",
+        "emotion": "dinginlik",
+        "interpretation": "Geçmişle yüzleşme ve affetme ihtiyacını simgeler."
+      }
+    },
+    {
+      "page_content": "Rüyamda uçmak ile ilgili bir durum yaşadım. Molestiae alias suscipit quasi consequuntur velit velit.",
+      "metadata": {
+        "theme": "başarı",
+        "symbol": "uçmak",
+        "emotion": "öfke",
+        "interpretation": "Hayatınızdaki kaosun sona ereceğine işaret eder."
+      }
+    },
+    {
+      "page_content": "Rüyamda dağ ile ilgili bir durum yaşadım. Quae aspernatur adipisci assumenda officia.",
+      "metadata": {
+        "theme": "kaos",
+        "symbol": "dağ",
+        "emotion": "yorgunluk",
+        "interpretation": "Kendinize olan güveninizi sorguladığınız bir dönemi yansıtır."
+      }
+    },
+    {
+      "page_content": "Rüyamda diş ile ilgili bir durum yaşadım. Debitis voluptate fugiat neque.",
+      "metadata": {
+        "theme": "başarı",
+        "symbol": "diş",
+        "emotion": "huzur",
+        "interpretation": "Toplumsal rollerle kişisel kimlik arasında çatışma yaşanıyor olabilir."
+      }
+    },
+    {
+      "page_content": "Rüyamda eski arkadaş ile ilgili bir durum yaşadım. Et ex reiciendis similique.",
+      "metadata": {
+        "theme": "kaçış",
+        "symbol": "eski arkadaş",
+        "emotion": "öfke",
+        "interpretation": "Yakın gelecekte bir karar vermeniz gerekebilir."
+      }
+    },
+    {
+      "page_content": "Rüyamda ormanda kaybolmak ile ilgili bir durum yaşadım. Neque possimus labore iusto.",
+      "metadata": {
+        "theme": "kaçış",
+        "symbol": "ormanda kaybolmak",
+        "emotion": "coşku",
+        "interpretation": "Yeni bir başlangıç yapmak için fırsatlara açıksınız."
+      }
+    },
+    {
+      "page_content": "Rüyamda geyik ile ilgili bir durum yaşadım. Dolorem ratione veritatis.",
+      "metadata": {
+        "theme": "kaçış",
+        "symbol": "geyik",
+        "emotion": "yorgunluk",
+        "interpretation": "İçsel bir dönüşüm sürecinde olduğunuzu gösterir."
+      }
+    },
+    {
+      "page_content": "Rüyamda mezarlık ile ilgili bir durum yaşadım. Veniam tempora eveniet minima delectus.",
+      "metadata": {
+        "theme": "kontrol kaybı",
+        "symbol": "mezarlık",
+        "emotion": "gerilim",
+        "interpretation": "Hayatınızdaki kaosun sona ereceğine işaret eder."
+      }
+    },
+    {
+      "page_content": "Rüyamda dağ ile ilgili bir durum yaşadım. Iste quasi nihil aliquam facilis quam ipsam.",
+      "metadata": {
+        "theme": "mutluluk",
+        "symbol": "dağ",
+        "emotion": "dinginlik",
+        "interpretation": "Zihinsel yorgunluğunuzun ve baskıların bir sembolüdür."
+      }
+    },
+    {
+      "page_content": "Rüyamda kapı ile ilgili bir durum yaşadım. Officia quibusdam necessitatibus quos magnam vitae hic aliquam.",
+      "metadata": {
+        "theme": "içsel keşif",
+        "symbol": "kapı",
+        "emotion": "kaygı",
+        "interpretation": "İfade edilmemiş duyguların ortaya çıkışı anlamına gelir."
+      }
+    },
+    {
+      "page_content": "Rüyamda kalabalık ile ilgili bir durum yaşadım. Id delectus suscipit repellendus sint hic aperiam.",
+      "metadata": {
+        "theme": "geçmiş",
+        "symbol": "kalabalık",
+        "emotion": "endişe",
+        "interpretation": "Kendinize olan güveninizi sorguladığınız bir dönemi yansıtır."
+      }
+    },
+    {
+      "page_content": "Rüyamda dağ ile ilgili bir durum yaşadım. Expedita vero consectetur consectetur asperiores dicta ut.",
+      "metadata": {
+        "theme": "geçmiş",
+        "symbol": "dağ",
+        "emotion": "kaygı",
+        "interpretation": "Yeni bir başlangıç yapmak için fırsatlara açıksınız."
+      }
+    },
+    {
+      "page_content": "Rüyamda mezarlık ile ilgili bir durum yaşadım. Quasi ex architecto cupiditate aspernatur a.",
+      "metadata": {
+        "theme": "kimlik",
+        "symbol": "mezarlık",
+        "emotion": "özlem",
+        "interpretation": "Kendinize olan güveninizi sorguladığınız bir dönemi yansıtır."
+      }
+    },
+    {
+      "page_content": "Rüyamda uçurum ile ilgili bir durum yaşadım. Soluta doloremque magnam hic nisi ullam.",
+      "metadata": {
+        "theme": "barış",
+        "symbol": "uçurum",
+        "emotion": "heyecan",
+        "interpretation": "Hayatınızdaki kaosun sona ereceğine işaret eder."
+      }
+    },
+    {
+      "page_content": "Rüyamda ayna ile ilgili bir durum yaşadım. Temporibus aperiam ab quisquam occaecati illo.",
+      "metadata": {
+        "theme": "korku",
+        "symbol": "ayna",
+        "emotion": "yorgunluk",
+        "interpretation": "İfade edilmemiş duyguların ortaya çıkışı anlamına gelir."
+      }
+    },
+    {
+      "page_content": "Rüyamda eski arkadaş ile ilgili bir durum yaşadım. Explicabo ratione doloribus sed odit.",
+      "metadata": {
+        "theme": "kontrol kaybı",
+        "symbol": "eski arkadaş",
+        "emotion": "mutluluk",
+        "interpretation": "İçsel bir dönüşüm sürecinde olduğunuzu gösterir."
+      }
+    },
+    {
+      "page_content": "Rüyamda yangın ile ilgili bir durum yaşadım. Qui nesciunt minus beatae.",
+      "metadata": {
+        "theme": "mutluluk",
+        "symbol": "yangın",
+        "emotion": "heyecan",
+        "interpretation": "Yeni bir başlangıç yapmak için fırsatlara açıksınız."
+      }
+    },
+    {
+      "page_content": "Rüyamda geyik ile ilgili bir durum yaşadım. Totam ipsam saepe quis commodi voluptatibus.",
+      "metadata": {
+        "theme": "kontrol kaybı",
+        "symbol": "geyik",
+        "emotion": "huzur",
+        "interpretation": "İçsel bir dönüşüm sürecinde olduğunuzu gösterir."
+      }
+    },
+    {
+      "page_content": "Rüyamda kalabalık ile ilgili bir durum yaşadım. Earum necessitatibus magnam accusantium quia molestias.",
+      "metadata": {
+        "theme": "geçmiş",
+        "symbol": "kalabalık",
+        "emotion": "nostalji",
+        "interpretation": "Yakın gelecekte bir karar vermeniz gerekebilir."
+      }
+    },
+    {
+      "page_content": "Rüyamda okyanus ile ilgili bir durum yaşadım. Illum quod occaecati dolore ad.",
+      "metadata": {
+        "theme": "yalnızlık",
+        "symbol": "okyanus",
+        "emotion": "öfke",
+        "interpretation": "Geçmişle yüzleşme ve affetme ihtiyacını simgeler."
+      }
+    },
+    {
+      "page_content": "Rüyamda yılan ile ilgili bir durum yaşadım. Vitae molestias facilis consectetur nihil ad.",
+      "metadata": {
+        "theme": "içsel keşif",
+        "symbol": "yılan",
+        "emotion": "şaşkınlık",
+        "interpretation": "Kendinize olan güveninizi sorguladığınız bir dönemi yansıtır."
+      }
+    },
+    {
+      "page_content": "Rüyamda sınav ile ilgili bir durum yaşadım. Nihil numquam error.",
+      "metadata": {
+        "theme": "kaos",
+        "symbol": "sınav",
+        "emotion": "gerilim",
+        "interpretation": "Hayatınızdaki kaosun sona ereceğine işaret eder."
+      }
+    },
+    {
+      "page_content": "Rüyamda sahne ile ilgili bir durum yaşadım. Unde sint delectus perferendis mollitia vitae.",
+      "metadata": {
+        "theme": "geçmiş",
+        "symbol": "sahne",
+        "emotion": "nostalji",
+        "interpretation": "İfade edilmemiş duyguların ortaya çıkışı anlamına gelir."
+      }
+    },
+    {
+      "page_content": "Rüyamda deniz ile ilgili bir durum yaşadım. Consectetur unde voluptates voluptates earum.",
+      "metadata": {
+        "theme": "geçmiş",
+        "symbol": "deniz",
+        "emotion": "dinginlik",
+        "interpretation": "Hayatınızdaki kaosun sona ereceğine işaret eder."
+      }
+    },
+    {
+      "page_content": "Rüyamda ormanda kaybolmak ile ilgili bir durum yaşadım. Voluptate tempora nemo quasi.",
+      "metadata": {
+        "theme": "kaçış",
+        "symbol": "ormanda kaybolmak",
+        "emotion": "yorgunluk",
+        "interpretation": "Toplumsal rollerle kişisel kimlik arasında çatışma yaşanıyor olabilir."
+      }
+    },
+    {
+      "page_content": "Rüyamda yılan ile ilgili bir durum yaşadım. Expedita perferendis at minus quasi placeat rem quidem.",
+      "metadata": {
+        "theme": "kimlik",
+        "symbol": "yılan",
+        "emotion": "dinginlik",
+        "interpretation": "İçsel bir dönüşüm sürecinde olduğunuzu gösterir."
+      }
+    }
+  ]
+}
