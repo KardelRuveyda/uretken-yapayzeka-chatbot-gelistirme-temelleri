@@ -29,7 +29,7 @@ grade_prompt = ChatPromptTemplate.from_messages(
 retrieval_grader = grade_prompt | structured_llm_grader
 
 if __name__ == '__main__':
-    user_question = "what is prompt engineering"
+    user_question = "üyamda deniz ile ilgili bir durum yaşadım."
     docs = retriever.get_relevant_documents(user_question)
     retrieved_document= docs[0].page_content
 
