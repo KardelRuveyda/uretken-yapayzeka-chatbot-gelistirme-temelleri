@@ -1,0 +1,10 @@
+openai
+pandas
+scikit-learn
+streamlit
+google-generativeai
+streamlit
+requests
+openpyxl
+langchain_chroma
+langchainhub
