@@ -11,6 +11,23 @@ Bu proje, UEFA Şampiyonlar Ligi hakkında kullanıcıların sorularını yanıt
 
 ---
 
+## 🚀 Çalıştırma Talimatları
+
+1. **Gereksinimleri Kurun:**
+
+```bash
+pip install -r requirements.txt
+```
+2. **.env Dosyasına api key yazınn:**
+```bash
+OPENAI_API_KEY=your_openai_key
+OPENROUTER_API_KEY=your_openrouter_key
+```
+3. **Streamlit uygulamasını başlatın:**
+```bash
+streamlit run app.py
+```
+
 ## 🧠 Chatbot Akışı
 
 Chatbot aşağıdaki temel niyetlere cevap verebilir:
@@ -209,11 +226,10 @@ Intent sınıflandırması için `TfidfVectorizer + SVC` pipeline'ı kullanılm�
 │   ├── champions_league_information.txt        #Şampiyonlar Ligi hakkında bilgi metni
 │   └── champions_league_chatbot_dataset.xlsx               #Intent sınıflandırma verisi
 ├── models/
-│   ├── intent_classifier.pkl                          #Eğitilmiş TF-IDF + SVM modeli
-│   ├── gpt_model.py
-│   ├── qwen_model.py
+│   └── intent_classifier.pkl                          #Eğitilmiş TF-IDF + SVM modeli
 ├── app/
-│   └── streamlit_app.py                         # Arayüz için Streamlit uygulaması                              
-├── .env                                         # API anahtarı içeren dosya
+│   ├── streamlit_app.py                        # Arayüz için Streamlit uygulaması 
+│   ├──  gpt_model.py
+│   ├── qwen_model.py                                                   
 ├── README.md                                    # Proje dökümantasyonu
 └── requirements.txt                             # Gerekli Python kütüphaneleri
