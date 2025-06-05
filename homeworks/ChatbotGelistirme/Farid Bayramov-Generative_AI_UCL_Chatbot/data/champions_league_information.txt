@@ -1,0 +1,175 @@
+I. INTRODUCTION
+---------------
+- Name: UEFA Champions League (UCL)
+- Organizer: Union of European Football Associations (UEFA)
+- Region: Europe
+- Confederation: UEFA (one of six FIFA continental governing bodies)
+- Founded: 1955 (originally as the European Champion Clubs' Cup)
+- Renamed: 1992 (became UEFA Champions League)
+- Status: Active
+- Type: Annual continental club football competition
+- Participants: Top-tier football clubs from European domestic leagues
+- Purpose: To determine the best football club team in Europe each season
+
+II. COMPETITION FORMAT (As of 2024–25 onward)
+---------------------------------------------
+- Phase 1: League Phase (formerly "Group Stage")
+  * Number of Teams: 36
+  * Each team plays 8 different opponents (4 home, 4 away)
+  * Opponents are selected based on seeded pots (Pot 1 to Pot 4)
+  * Single league table, ranked by points (W = 3, D = 1, L = 0)
+  * Tiebreakers: head-to-head points, goal difference, goals scored
+
+- Phase 2: Knockout Play-offs
+  * Teams ranked 9–24 play two-legged play-off rounds
+  * Winners join the top 8 teams in the Round of 16
+
+- Phase 3: Knockout Stage
+  * Round of 16 → Quarter-finals → Semi-finals → Final
+  * All rounds (except final) are two-legged (home and away)
+  * The final is a single match at a pre-selected neutral venue
+
+- No away goals rule since 2021–22 (ties level on aggregate go to extra time, then penalties)
+
+III. QUALIFICATION & ACCESS LIST
+---------------------------------
+- UEFA assigns slots to national associations based on their coefficient ranking.
+- Higher-ranked leagues (e.g., England, Spain, Germany, Italy) receive more automatic spots.
+- Lower-ranked associations enter through multiple qualification rounds:
+  1. Preliminary Round
+  2. First Qualifying Round
+  3. Second Qualifying Round
+  4. Third Qualifying Round
+  5. Play-off Round
+
+- Europa League winners qualify for the group phase.
+- From 2024, teams also qualify based on UEFA's performance-based coefficients.
+
+IV. HISTORICAL OVERVIEW
+------------------------
+- The inaugural season (1955–56) was won by Real Madrid.
+- Between 1956 and 1991, only national league champions and defending champions participated.
+- In 1992–93, the tournament was rebranded, and a group stage was introduced.
+- The competition evolved to allow multiple entrants per country (starting mid-1990s).
+
+V. MOST SUCCESSFUL CLUBS (ALL-TIME)
+------------------------------------
+1. Real Madrid (Spain) – 15 titles
+2. AC Milan (Italy) – 7 titles
+3. Bayern Munich (Germany) – 6 titles
+4. Liverpool (England) – 6 titles
+5. FC Barcelona (Spain) – 5 titles
+6. Ajax (Netherlands) – 4 titles
+7. Manchester United (England) – 3 titles
+8. Inter Milan (Italy) – 3 titles
+9. Juventus (Italy) – 2 titles
+10. Chelsea (England) – 2 titles
+
+VI. TOP INDIVIDUAL RECORDS
+---------------------------
+• All-time Top Scorers:
+  - Cristiano Ronaldo: 141 goals
+  - Lionel Messi: 129 goals
+  - Robert Lewandowski: 103 goals
+  - Karim Benzema: 90 goals
+  - Raúl González: 71 goals
+
+• Most Appearances:
+  - Cristiano Ronaldo: 187 matches
+  - Iker Casillas: 181 matches
+  - Lionel Messi: 163 matches
+  - Xavi Hernández: 157 matches
+  - Ryan Giggs: 151 matches
+
+• Most Assists:
+  - Cristiano Ronaldo: 42
+  - Lionel Messi: 40
+  - Neymar Jr.: 33
+  - Ángel Di María: 41
+  - Mesut Özil: 28
+
+• Most Clean Sheets:
+  - Iker Casillas: 59
+  - Gianluigi Buffon: 52
+  - Manuel Neuer: 51
+  - Petr Čech: 49
+
+• Most Titles (Players):
+  - Paco Gento (Real Madrid): 6
+  - Cristiano Ronaldo: 5
+  - Lionel Messi: 4
+  - Luka Modrić: 5
+
+VII. TROPHY & SYMBOLS
+----------------------
+- The current trophy, nicknamed “Big Ears,” has been used since 1967.
+- Height: 74 cm | Weight: 11 kg | Material: Sterling silver
+- A club that wins it 5 times or 3 consecutively may keep a replica.
+- Current UEFA rules do not allow clubs to retain the actual trophy.
+
+VIII. THE ANTHEM
+-----------------
+- Composer: Tony Britten
+- Based on: Handel’s “Zadok the Priest”
+- Performed by: Royal Philharmonic Orchestra & Academy of St. Martin in the Fields Chorus
+- Languages: English, French, German
+- Played before every match during the team lineup
+
+Lyrics (Trilingual mix):
+“Die Meister!  
+Die Besten!  
+Les grandes équipes!  
+The champions!”
+
+IX. STADIUMS
+-------------
+- The final is played in a pre-selected stadium (neutral venue).
+- Past venues include: Wembley (London), Stade de France (Paris), Allianz Arena (Munich), San Siro (Milan), etc.
+- Must meet UEFA's "Elite Stadium" criteria, including capacity, facilities, media, and safety.
+
+X. MEDIA & BROADCASTING
+------------------------
+- Global broadcast rights; most valuable club competition in the world.
+- Final reaches over 400 million viewers worldwide.
+- Licensed broadcasters include CBS (USA), BT Sport (UK), DAZN (Canada), beIN Sports (Middle East), etc.
+
+XI. AWARDS
+-----------
+- UEFA Player of the Season
+- Golden Boot (top scorer)
+- Best Goalkeeper / Defender / Midfielder / Forward
+- Goal of the Season
+- Man of the Match (Final)
+- UEFA Team of the Season
+- Fantasy Football MVPs
+
+XII. UEFA COEFFICIENTS
+------------------------
+- Determines how many clubs each association sends and at which stage.
+- Based on the last 5 years of club performances in UEFA competitions.
+- Affects seeding and qualification.
+
+XIII. COMMERCIAL IMPACT
+-------------------------
+- Revenue (2022–23): €3.5+ billion
+- Main sponsors: Heineken, Mastercard, FedEx, PlayStation, Expedia, PepsiCo, etc.
+- Prize money distribution includes participation fees, performance bonuses, and market pool shares.
+
+XIV. CULTURAL & GLOBAL INFLUENCE
+---------------------------------
+- Regarded as the pinnacle of club football globally.
+- Attracts the world’s top talent.
+- Heavily followed in Asia, Africa, and the Americas.
+- Influences trends in football tactics, player transfers, and even kits/fashion.
+
+XV. OTHER FACTS
+---------------
+- Language of official UEFA communication: English and French
+- Referees are assigned from UEFA’s elite panel
+- The ball is supplied by Adidas; unique design each season
+- VAR (Video Assistant Referee) introduced in 2018–19
+- Most common final matchup: Real Madrid vs. Atlético Madrid (twice)
+- Most penalties scored in the tournament: Cristiano Ronaldo (19)
+
+END OF FILE
+===============================
