@@ -107,7 +107,7 @@ temelli bir niyet sınıflandırıcısı kullanılmıştır.
 
 ⚠️ Modelin eğitilmesi sırasında maksimum özellik frekansı (max_df=0.95) kullanılmış, İngilizce stopword'ler filtrelenmiştir.
 
-![intent](https://github.com/user-attachments/assets/c142d4d9-5202-4e12-98e2-0263db1f1100)
+![image](https://github.com/user-attachments/assets/c142d4d9-5202-4e12-98e2-0263db1f1100)
 
 
 ## 🔍 Vektör Tabanlı Bilgi Alma (RAG)
@@ -204,7 +204,7 @@ Intent sınıflandırması için `TfidfVectorizer + SVC` pipeline'ı kullanılm�
 
 **Karışıklık matrisi:**
 
-![conf](https://github.com/user-attachments/assets/4a5ae4c8-b185-4608-9f60-af1965c2d37c)
+![image](https://github.com/user-attachments/assets/4a5ae4c8-b185-4608-9f60-af1965c2d37c)
 
 
 ---
@@ -214,7 +214,7 @@ Intent sınıflandırması için `TfidfVectorizer + SVC` pipeline'ı kullanılm�
 - Gelişmiş bir arayüz olarak `streamlit` destekli görsel arayüz mevcuttur.
 - Kullanıcıdan metin alınır ve yanıt ekranda gösterilir.
 
-![gui](https://github.com/user-attachments/assets/f6902892-32ae-4c74-b137-0b989461d322)
+![image](https://github.com/user-attachments/assets/f6902892-32ae-4c74-b137-0b989461d322)
 
 
 ---
