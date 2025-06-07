@@ -15,7 +15,7 @@ gemini_model = genai.GenerativeModel(model_name="models/gemini-2.0-flash")
 # Load intent classifier
 intent_classifier = joblib.load("models/intent_classifier.joblib")
 
-# Initialize embeddings and vector store (make sure VECTOR_STORE_DIR matches your setup)
+# Initialize embeddings and vector store
 VECTOR_STORE_DIR = "data/chroma_store"
 embeddings = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
 vectordb = Chroma(persist_directory=VECTOR_STORE_DIR, embedding_function=embeddings)
@@ -37,7 +37,7 @@ if prompt:
     st.session_state.messages.append({"role": "user", "content": prompt})
 
     predicted_intent = intent_classifier.predict([prompt])[0]
-    print(f"Predicted intent: {predicted_intent}")
+    print(f"Prompt: {prompt}, Predicted intent: {predicted_intent}")
 
     if predicted_intent == "greeting":
         answer = "Hello! How can I assist you with questions about Kosovo today?"
