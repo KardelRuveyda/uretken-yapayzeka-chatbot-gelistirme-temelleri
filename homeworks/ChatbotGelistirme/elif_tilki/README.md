@@ -159,7 +159,7 @@ BERT, çift yönlü bir encoder modelidir. Girdi metnini anlamak için tüm bağ
 
 ### 📉 Confusion Matrix - BERT
 
-![BERT Confusion Matrix](images\bert_conf_matrix.png)
+![BERT Confusion Matrix](images/bert_conf_matrix.png)
 
 ---
 
@@ -195,7 +195,7 @@ T5, metni metne çeviren bir modeldir. Intent sınıflandırma için giriş `"cl
 
 ### 📉 Confusion Matrix - T5
 
-![T5 Confusion Matrix](images\t5_conf_matrix.png) 
+![T5 Confusion Matrix](images/t5_conf_matrix.png) 
 
 ---
 
@@ -323,12 +323,12 @@ Açılan web arayüzünde:
 Aşağıda uygulamanın farklı kullanım senaryolarına ait örnek ekran görüntüleri sunulmuştur:
 
 - 🎨 **Genel Arayüz Görünümü**  
-  ![Genel Arayüz](images\arayuz_genel.PNG)
+  ![Genel Arayüz](images/arayuz_genel.PNG)
 
 - 🤖 **BERT Modeli ile Sohbet**  
-  ![BERT Sohbet](images\bert_sohbet.PNG)
+  ![BERT Sohbet](images/bert_sohbet.PNG)
 
 - 🤖 **T5 Modeli ile Sohbet**  
-  ![T5 Sohbet](images\t5_sohbet.PNG)
+  ![T5 Sohbet](images/t5_sohbet.PNG)
 
 
