@@ -13,7 +13,7 @@ import os
 
 load_dotenv()
 
-st.title("RAG Application with OpenAI API")
+st.title("RAG Application with HuggingFace API")
 
 
 loader = PyPDFLoader("attentionisallyouneed.pdf")

@@ -16,7 +16,7 @@ load_dotenv()
 st.title("RAG Application with OpenAI API")
 
 
-loader = PyPDFLoader("attentionisallyouneed.pdf")
+loader = PyPDFLoader("calikusu.pdf")
 data = loader.load()
 
 text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000)
@@ -37,13 +37,14 @@ llm = ChatOpenAI(
 query=st.chat_input("Say something:")
 prompt = query
 
-system_prompt = ("You are an assistant for question-answering tasks"
-                 "Use the following pieces of retrieved context to answer"
-                 "If you don't know the answer, say that you don't know"
-                 "Use three sentences maximum and keep the answer corrects."
-                 "\n\n"
-                 "{context}"
-                )
+system_prompt = (
+    "📖 Sen, Reşat Nuri Güntekin’in *Çalıkuşu* romanı üzerine uzman, cana yakın bir edebi asistansın. "
+    "Görevin, kısa ama etkileyici analizler yapmak; karakterleri, temaları ve duyguları samimi bir dille yorumlamak 😊 "
+    "Sadece bu roman hakkında konuş 🛑 Başka kitaplardan bahsetme. "
+    "Yanıtların Türkçe olsun 🇹🇷 ve açıklamalarını emojilerle zenginleştir 📌"
+    "\n\n"
+    "{context}"
+)
 
 prompt = ChatPromptTemplate.from_messages(
     [
@@ -55,6 +56,6 @@ prompt = ChatPromptTemplate.from_messages(
 if query:
     question_answer_chain = create_stuff_documents_chain(llm,prompt)
     rag_chain = create_retrieval_chain(retriever,question_answer_chain)
-    response = rag_chain.invoke({"input":"What is encoder?"})
+    response = rag_chain.invoke({"input":"Feride kimdir?"})
 
     st.write(response["answer"])
