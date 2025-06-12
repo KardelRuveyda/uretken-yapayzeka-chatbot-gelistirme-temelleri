@@ -1,6 +1,6 @@
 # 🧠 Chatbot Akışı Tasarımı
 
-![Chatbot Akış Diyagramı](homeworks\marmara\Elif_Tilki\chatbot_homework_elif_tilki\images\diagram.png)  
+![Chatbot Akış Diyagramı](homeworks/ChatbotGelistirme/elif_tilki/images)  
 *Yukarıdaki diyagram, chatbotun temel çalışma prensibini ve kullanıcı ile etkileşim sürecini görsel olarak özetlemektedir.*
 
 Chatbot, kullanıcıdan aldığı girdiyi işleyerek anlamlandırmakta ve buna uygun yanıtları üretmektedir.
