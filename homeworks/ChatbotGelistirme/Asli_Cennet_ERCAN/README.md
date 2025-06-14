@@ -72,28 +72,7 @@ Chatbot, kullanıcıdan gelen mesajı embed edip intent sınıflandırması yapa
 
 ## 🗺️ Chatbot Akış Diyagramı
 
-```mermaid
-graph TD
-    A[ Kullanıcıdan Girdi Al] --> B[ Intent Sınıflandırması Yap]
-    B --> C{Intent Türü Nedir?}
-
-    C -->|selamlama| D1[👋 Sabit Selamlama Yanıtı Ver]
-    C -->|veda| D2[👋 Sabit Veda Yanıtı Ver]
-    C -->|konu_dışı| D3[⚠️ Konu Dışı Uyarısı Ver]
-    C -->|faq_sorgu / diğer| E[📄 PDF üzerinden Bilgi Getir (RAG)]
-
-    E --> F{Model Seçimi}
-    F -->|Gemini| G1[🤖 Gemini ile Yanıt Üret]
-    F -->|GPT-4o| G2[🤖 GPT-4o ile Yanıt Üret]
-
-    D1 --> Z[📜 Yanıt Sohbet Geçmişine Eklenir]
-    D2 --> Z
-    D3 --> Z
-    G1 --> Z
-    G2 --> Z
-
-    Z --> H[ Kullanıcıya Yanıt Göster]
-```
+![9e518cd1-783a-42e9-a73d-ae8496190b75](https://github.com/user-attachments/assets/5df870f0-f308-4782-9a96-32fb76078151)
 
 ---
 
@@ -186,20 +165,19 @@ embedding = HuggingFaceEmbeddings(model_name="sentence-transformers/paraphrase-m
 ##  Uygulama Arayüzü
 
 * Streamlit ile geliştirilmiştir
-* Sidebar: Model seçimi, sohbet temizleme
-* Ana alan: Soru kutusu, sohbet geçmişi, yanıt gösterimi
-* Enter tuşu veya butonla mesaj gönderimi
-* Sohbet geçmişi üstte, yeni sorular altta
-
 ---
 
 ## 📷 Streamlit Arayüzü 
 
 (→ Aşağıda, chatbot arayüzünün farklı kullanım senaryolarına ait örnek ekran görüntüleri bulunmaktadır.)
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
+![image](https://github.com/user-attachments/assets/e0eef2aa-d632-4aaf-b501-1e291c227f4e)
+
+![image-1](https://github.com/user-attachments/assets/25695fe2-0dba-475f-b9b6-b3f95d017c35)
+
+![image-2](https://github.com/user-attachments/assets/48111dad-a16d-45c0-99c2-31f23caf4ebf)
+
+![image-3](https://github.com/user-attachments/assets/8f1cf541-94ca-48b9-ab81-72aea14efbe8)
+
 ---
 
 ## ⚙️ Kurulum ve Çalıştırma
@@ -217,6 +195,3 @@ streamlit run app/streamlit_app.py
 ```
 > ⚠️ Not: Faiss bazı sürümlerle uyumsuzluk gösterdiğinden sanal ortamda Python 3.10 tercih edilmiştir.
 ---
-## ✅ Sonuç
-
-Bu proje, yapay zekâ destekli sistemlerin belge tabanlı bilgiye erişim uygulamasını ve farklı embedding stratejileri ve LLM seçeneklerinin karşılaştırılmasını içermektedir.
