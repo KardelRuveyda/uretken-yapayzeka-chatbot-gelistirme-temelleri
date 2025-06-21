@@ -1,0 +1,22 @@
+streamlit
+pandas
+python-dotenv
+# ML
+scikit-learn
+joblib
+sentence-transformers
+# LangChain 
+langchain
+langchain-community
+langchain-core
+langchain-openai
+langchain-google-genai
+# Embed & Vector Store
+faiss-cpu
+transformers
+torch>=2.2.0
+# PDF işleme
+PyMuPDF
+# API istemcileri
+google-generativeai
+openai

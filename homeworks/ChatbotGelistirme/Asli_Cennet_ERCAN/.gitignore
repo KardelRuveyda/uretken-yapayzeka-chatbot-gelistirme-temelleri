@@ -1,0 +1,5 @@
+.env
+
+data/osym_faiss_index/
+*.joblib
+*.pkl
