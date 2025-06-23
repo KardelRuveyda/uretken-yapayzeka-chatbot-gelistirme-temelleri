@@ -547,16 +547,8 @@ Bu proje **MIT Lisansı** altında lisanslanmıştır.
 
 ---
 
-## 📞 **İletişim ve Destek**
 
 <div align="center">
-
-### 👨‍💻 **Geliştirici İletişim**
-**Selin Yüceer**  
-📧 Email: [your-email@example.com](mailto:your-email@example.com)  
-🐙 GitHub: [@KardelRuveyda](https://github.com/KardelRuveyda)  
-💼 LinkedIn: [Selin Yüceer](https://linkedin.com/in/your-profile)
-
 ---
 
 ### 🌟 **Proje Kaynakları**
@@ -571,9 +563,6 @@ Bu proje **MIT Lisansı** altında lisanslanmıştır.
 
 <div align="center">
 
-## ⭐ **Projeyi Beğendiyseniz Star Verin!**
-
-**🎯 Bu proje size değer kattıysa, lütfen ⭐ vererek destekleyin!**
 
 ---
 
